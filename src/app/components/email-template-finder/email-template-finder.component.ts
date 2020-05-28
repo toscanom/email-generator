@@ -14,11 +14,11 @@ export class EmailTemplateFinderComponent implements OnInit {
   constructor( private emailTemplatesService: EmailTemplatesService) { }
 
   ngOnInit() {
-    this.emailTemplatesService.getEmailTemplates().subscribe((templateFullText) => {
-      const blurbsWTitles = templateFullText.trim().split('***');
+    this.emailTemplatesService.getEmailTemplates().subscribe((rawText) => {
+      const bodyWTitles = rawText.trim().split('***');
 
-      blurbsWTitles.forEach((blurb) => {
-        let temp = blurb.replace(/[\n\r]/g, ' ');
+      bodyWTitles.forEach((entry) => {
+        let temp = entry.replace(/[\n\r]/g, ' ');
         const templateFields = temp.split('### ');
 
         if(templateFields && templateFields[0] && templateFields[1]) {
@@ -27,7 +27,7 @@ export class EmailTemplateFinderComponent implements OnInit {
             body: templateFields[1].trim()
           })
         } else {
-          console.log('ERROR');
+          console.log('ERROR parsing template:');
           console.info(templateFields)
         }
       })
