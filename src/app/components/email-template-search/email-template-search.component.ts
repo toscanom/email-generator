@@ -1,17 +1,18 @@
 import { Component, OnInit } from '@angular/core';
 
+import { EmailItemsService } from "../../services/email-items.service";
 import { EmailTemplatesService } from "../../services/email-templates.service";
 
 @Component({
   selector: 'app-email-template-finder',
-  templateUrl: './email-template-finder.component.html',
-  styleUrls: ['./email-template-finder.component.css']
+  templateUrl: './email-template-search.component.html',
+  styleUrls: ['./email-template-search.component.css']
 })
-export class EmailTemplateFinderComponent implements OnInit {
+export class EmailTemplateSearchComponent implements OnInit {
 
-  templates = [];
+  templates = <any>[];
 
-  constructor( private emailTemplatesService: EmailTemplatesService) { }
+  constructor( private emailItemsService: EmailItemsService, private emailTemplatesService: EmailTemplatesService) { }
 
   ngOnInit() {
     this.emailTemplatesService.getEmailTemplates().subscribe((rawText) => {
@@ -23,7 +24,7 @@ export class EmailTemplateFinderComponent implements OnInit {
 
         if(templateFields && templateFields[0] && templateFields[1]) {
           this.templates.push({
-            title: templateFields[0].trim(),
+            name: templateFields[0].trim(),
             body: templateFields[1].trim()
           })
         } else {
@@ -33,6 +34,8 @@ export class EmailTemplateFinderComponent implements OnInit {
       })
 
       console.info(this.templates);
+
+      this.emailItemsService.setEmailItems(this.templates);
     })
   }
 }

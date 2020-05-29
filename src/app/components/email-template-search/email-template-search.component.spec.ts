@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { EmailTemplateFinderComponent } from './email-template-finder.component';
+import { EmailTemplateSearchComponent } from './email-template-search.component';
 
 describe('EmailTemplateFinderComponent', () => {
-  let component: EmailTemplateFinderComponent;
-  let fixture: ComponentFixture<EmailTemplateFinderComponent>;
+  let component: EmailTemplateSearchComponent;
+  let fixture: ComponentFixture<EmailTemplateSearchComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ EmailTemplateFinderComponent ]
+      declarations: [ EmailTemplateSearchComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(EmailTemplateFinderComponent);
+    fixture = TestBed.createComponent(EmailTemplateSearchComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

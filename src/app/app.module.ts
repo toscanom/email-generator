@@ -5,12 +5,16 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
-import { EmailTemplateFinderComponent } from './components/email-template-finder/email-template-finder.component';
+import { EmailTemplateSearchComponent } from './components/email-template-search/email-template-search.component';
+import { SpreadsheetContentsComponent } from './components/spreadsheet-contents/spreadsheet-contents.component';
+import { EmailFormComponent } from './components/email-form/email-form.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    EmailTemplateFinderComponent
+    EmailTemplateSearchComponent,
+    SpreadsheetContentsComponent,
+    EmailFormComponent
   ],
   imports: [
     AppRoutingModule,

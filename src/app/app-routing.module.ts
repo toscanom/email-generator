@@ -1,10 +1,13 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-import { EmailTemplateFinderComponent } from './components/email-template-finder/email-template-finder.component';
+import { EmailTemplateSearchComponent } from './components/email-template-search/email-template-search.component';
+import { SpreadsheetContentsComponent } from "./components/spreadsheet-contents/spreadsheet-contents.component";
 
 const routes: Routes = [
-  { path: '', component: EmailTemplateFinderComponent}
+  { path: '', component: EmailTemplateSearchComponent },
+  { path: 'search', component: EmailTemplateSearchComponent },
+  { path: 'spreadsheetContents', component: SpreadsheetContentsComponent }
 ];
 
 @NgModule({
