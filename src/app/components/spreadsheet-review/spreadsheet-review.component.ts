@@ -5,13 +5,13 @@ import { SpreadsheetGeneratorService } from "../../services/spreadsheet-generato
 
 @Component({
   selector: 'app-spreadsheet-contents',
-  templateUrl: './spreadsheet-contents.component.html',
-  styleUrls: ['./spreadsheet-contents.component.css']
+  templateUrl: './spreadsheet-review.component.html',
+  styleUrls: ['./spreadsheet-review.component.css']
 })
-export class SpreadsheetContentsComponent implements OnInit {
+export class SpreadsheetReviewComponent implements OnInit {
 
   fileUrl;
-  downloadFilename;
+  downloadFilename = 'email-spreadsheet.txt';
   emailItems = <any>[];
 
   constructor(private emailItemsService: EmailItemsService, private spreadsheetGeneratorService: SpreadsheetGeneratorService) { }
@@ -21,7 +21,6 @@ export class SpreadsheetContentsComponent implements OnInit {
   }
 
   generateSpreadsheetUrl() {
-    this.downloadFilename = 'email-spreadsheet.txt';
-    this.fileUrl = this.spreadsheetGeneratorService.generateSpreadsheetFile();
+    this.spreadsheetGeneratorService.generateSpreadsheetFile(this.downloadFilename);
   }
 }

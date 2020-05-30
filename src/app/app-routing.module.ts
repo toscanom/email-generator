@@ -2,12 +2,12 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 import { EmailTemplateSearchComponent } from './components/email-template-search/email-template-search.component';
-import { SpreadsheetContentsComponent } from "./components/spreadsheet-contents/spreadsheet-contents.component";
+import { SpreadsheetReviewComponent } from "./components/spreadsheet-review/spreadsheet-review.component";
 
 const routes: Routes = [
   { path: '', component: EmailTemplateSearchComponent },
   { path: 'search', component: EmailTemplateSearchComponent },
-  { path: 'spreadsheetContents', component: SpreadsheetContentsComponent }
+  { path: 'spreadsheetContents', component: SpreadsheetReviewComponent }
 ];
 
 @NgModule({

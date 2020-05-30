@@ -16,16 +16,16 @@ export class EmailTemplateSearchComponent implements OnInit {
 
   ngOnInit() {
     this.emailTemplatesService.getEmailTemplates().subscribe((rawText) => {
-      const bodyWTitles = rawText.trim().split('***');
+      const rawTemplates = rawText.trim().split('***');
 
-      bodyWTitles.forEach((entry) => {
-        let temp = entry.replace(/[\n\r]/g, ' ');
-        const templateFields = temp.split('### ');
+      rawTemplates.forEach((entry) => {
+        let cleanTemplate = entry.replace(/[\n\r]/g, ' ');
+        const templateFields = cleanTemplate.split('### ');
 
         if(templateFields && templateFields[0] && templateFields[1]) {
           this.templates.push({
             name: templateFields[0].trim(),
-            body: templateFields[1].trim()
+            blurb: templateFields[1].trim()
           })
         } else {
           console.log('ERROR parsing template:');

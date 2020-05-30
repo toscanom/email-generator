@@ -6,14 +6,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { EmailTemplateSearchComponent } from './components/email-template-search/email-template-search.component';
-import { SpreadsheetContentsComponent } from './components/spreadsheet-contents/spreadsheet-contents.component';
+import { SpreadsheetReviewComponent } from './components/spreadsheet-review/spreadsheet-review.component';
 import { EmailFormComponent } from './components/email-form/email-form.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     EmailTemplateSearchComponent,
-    SpreadsheetContentsComponent,
+    SpreadsheetReviewComponent,
     EmailFormComponent
   ],
   imports: [

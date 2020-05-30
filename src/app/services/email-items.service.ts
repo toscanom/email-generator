@@ -6,17 +6,22 @@ import { Injectable } from '@angular/core';
 
 export class EmailItemsService {
 
-  private emailItems = [];
+  private key = 'EmailItems';
 
   constructor() { }
 
   public setEmailItems(emailItems) {
-    this.emailItems = emailItems;
-    console.log(this.emailItems.length + ' Number of items.');
+    sessionStorage.setItem(this.key, JSON.stringify(emailItems));
+    console.log(emailItems.length + ' Number of items.');
   }
 
   public getEmailItems() {
-    console.log(this.emailItems.length + ' Number of items.');
-    return(this.emailItems);
+    let emailItems = JSON.parse(sessionStorage.getItem(this.key));
+    if(emailItems === null) {
+      emailItems = [];
+    }
+
+    console.log(emailItems.length + ' Number of items.');
+    return(emailItems);
   }
 }
