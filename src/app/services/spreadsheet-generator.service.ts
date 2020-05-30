@@ -9,6 +9,7 @@ import * as fs from 'node_modules/file-saver';
 export class SpreadsheetGeneratorService {
 
   titles = ["Name", "Email", "Phone Number", "Subject", "Blurb"];
+
   data = [
     ["Name 1", "Email1", "Phone Number1", "Subject1", "Blurb1"],
     ["Name 2", "Email2", "Phone Number2", "Subject2", "Blurb2"],

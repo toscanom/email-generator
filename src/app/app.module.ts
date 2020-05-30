@@ -8,13 +8,17 @@ import { AppComponent } from './app.component';
 import { EmailTemplateSearchComponent } from './components/email-template-search/email-template-search.component';
 import { SpreadsheetReviewComponent } from './components/spreadsheet-review/spreadsheet-review.component';
 import { EmailFormComponent } from './components/email-form/email-form.component';
+import { LoginComponent } from './components/login/login.component';
+import { BlurbComponent } from './components/blurb/blurb.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     EmailTemplateSearchComponent,
     SpreadsheetReviewComponent,
-    EmailFormComponent
+    EmailFormComponent,
+    LoginComponent,
+    BlurbComponent
   ],
   imports: [
     AppRoutingModule,
