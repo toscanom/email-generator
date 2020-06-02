@@ -10,6 +10,7 @@ import { SpreadsheetReviewComponent } from './components/spreadsheet-review/spre
 import { EmailFormComponent } from './components/email-form/email-form.component';
 import { LoginComponent } from './components/login/login.component';
 import { BlurbComponent } from './components/blurb/blurb.component';
+import { HeaderComponent } from './components/header/header.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { BlurbComponent } from './components/blurb/blurb.component';
     SpreadsheetReviewComponent,
     EmailFormComponent,
     LoginComponent,
-    BlurbComponent
+    BlurbComponent,
+    HeaderComponent
   ],
   imports: [
     AppRoutingModule,
