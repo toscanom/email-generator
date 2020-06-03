@@ -1,1 +1,11 @@
-<p>header works!</p>
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <h1>Email List Generator</h1>
+    <span class="menu-spacer"></span>
+    <div>
+      <a mat-button [routerLink]="'/search'"> Search Blurbs </a>
+      <a mat-button [routerLink]="'/'"> Add Blurb </a>
+      <a mat-button [routerLink]="'/spreadsheetContents'"> Create Email List (0)</a>
+    </div>
+  </mat-toolbar-row>
+</mat-toolbar>

@@ -10,6 +10,14 @@ export class EmailItemsService {
 
   constructor() { }
 
+  public addEmailItem(emailItem) {
+    let currentEmailItems = this.getEmailItems();
+
+    currentEmailItems.add(emailItem);
+
+    this.setEmailItems(currentEmailItems)
+  }
+
   public setEmailItems(emailItems) {
     sessionStorage.setItem(this.key, JSON.stringify(emailItems));
     console.log(emailItems.length + ' Number of items.');

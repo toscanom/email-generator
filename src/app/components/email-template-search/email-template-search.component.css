@@ -1,0 +1,18 @@
+/* Structure */
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.padded-cell {
+  font-size: 14px;
+  width: 100%;
+}
+
+tr:hover {
+  background: whitesmoke;
+}

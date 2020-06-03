@@ -3,6 +3,8 @@ import { Component, OnInit } from '@angular/core';
 import { EmailItemsService } from "../../services/email-items.service";
 import { EmailTemplatesService } from "../../services/email-templates.service";
 
+import {MatTableDataSource} from '@angular/material/table';
+
 @Component({
   selector: 'app-email-template-finder',
   templateUrl: './email-template-search.component.html',
@@ -10,15 +12,22 @@ import { EmailTemplatesService } from "../../services/email-templates.service";
 })
 export class EmailTemplateSearchComponent implements OnInit {
 
+  displayedColumns: string[] = ['id','name','blurb'];
+  dataSource;
   templates = <any>[];
 
   constructor( private emailItemsService: EmailItemsService, private emailTemplatesService: EmailTemplatesService) { }
 
   ngOnInit() {
     this.emailTemplatesService.getEmailTemplates().subscribe((emailTemplates) => {
-      console.info(emailTemplates);
       this.templates = this.emailTemplatesService.convertRawText(emailTemplates);
-      this.emailItemsService.setEmailItems(this.templates);
-    })
+
+      this.dataSource = new MatTableDataSource(this.templates);
+    });
+  }
+
+  applyFilter(event: Event) {
+    const filterValue = (event.target as HTMLInputElement).value;
+    this.dataSource.filter = filterValue.trim().toLowerCase();
   }
 }
