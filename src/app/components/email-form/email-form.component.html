@@ -1,3 +1,41 @@
-<p>email-form works!</p>
+ <section fxLayout="row wrap" fxLayoutAlign="center center">
+    <mat-card fxFlex="700px" fxFlex.xs="100%">
+      <mat-card-title>Create a {{ emailTemplate.name }} Email Item</mat-card-title>
+      <form [formGroup]="emailItemForm" autocomplete="off" novalidate (ngSubmit)="createEmailItem(emailItemForm.value)" fxLayout="column wrap"
+            fxLayoutAlign="center center" fxLayoutGap="10px">
 
-using {{ emailTemplate.name }} template {{ emailTemplate.blurb }}
+        <mat-card-content>
+          <mat-form-field>
+            <input matInput type="text" placeholder="Name" formControlName="name" id="name">
+            <mat-error *ngIf="hasError('name', 'required')">Name is required</mat-error>
+          </mat-form-field>
+          <br>
+          <mat-form-field>
+            <input matInput type="text" placeholder="Email" formControlName="name" id="email">
+            <mat-error *ngIf="hasError('email', 'required')">Email is required</mat-error>
+          </mat-form-field>
+          <br>
+          <mat-form-field>
+            <input matInput type="text" placeholder="Phone Number" formControlName="phone">
+            <mat-error *ngIf="hasError('phone', 'required')">Phone Number is required</mat-error>
+          </mat-form-field>
+          <br>
+          <mat-form-field>
+            <input matInput type="text" placeholder="Subject" formControlName="subject">
+            <mat-error *ngIf="hasError('subject', 'required')">Subject is required</mat-error>
+          </mat-form-field>
+          <br>
+          <mat-form-field>
+            <textarea matInput type="text" placeholder="Email Body" formControlName="body" [value]="emailTemplate.blurb" [rows]="10"></textarea>
+            <mat-error *ngIf="hasError('body', 'required')">Email Body is required</mat-error>
+          </mat-form-field>
+        </mat-card-content>
+
+        <mat-card-actions>
+          <mat-card-actions align="center">
+            <button mat-raised-button color="primary">Create Item</button>
+          </mat-card-actions>
+        </mat-card-actions>
+      </form>
+    </mat-card>
+  </section>

@@ -4,9 +4,10 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ReactiveFormsModule } from '@angular/forms';
+import { FlexLayoutModule } from '@angular/flex-layout';
 
-
-import { MatInputModule, MatPaginatorModule, MatProgressSpinnerModule,
+import { MatCardModule, MatInputModule, MatPaginatorModule, MatProgressSpinnerModule,
   MatSortModule, MatTableModule, MatButtonModule, MatToolbarModule, MatIconModule, MatSidenavModule,
   MatListModule } from "@angular/material";
 
@@ -30,10 +31,12 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
   ],
   imports: [
     AppRoutingModule,
-    BrowserModule,
-    HttpClientModule,
     BrowserAnimationsModule,
+    BrowserModule,
+    FlexLayoutModule,
+    HttpClientModule,
     MatButtonModule,
+    MatCardModule,
     MatInputModule,
     MatTableModule,
     MatPaginatorModule,
@@ -42,7 +45,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     MatToolbarModule,
     MatIconModule,
     MatSidenavModule,
-    MatListModule
+    MatListModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

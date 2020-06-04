@@ -13,7 +13,7 @@ export class EmailItemsService {
   public addEmailItem(emailItem) {
     let currentEmailItems = this.getEmailItems();
 
-    currentEmailItems.add(emailItem);
+    currentEmailItems.push(emailItem);
 
     this.setEmailItems(currentEmailItems)
   }
