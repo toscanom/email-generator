@@ -16,7 +16,7 @@ export class EmailTemplatesService {
   }
 
   public getEmailTemplate(id) : any {
-    return(this.emailTemplates.find(template => template.id = id));
+    return(this.emailTemplates.find(template => template.id == id));
   }
 
   //TEMP

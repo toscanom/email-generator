@@ -1,4 +1,9 @@
 /* Structure */
+.table-container {
+  height: 700px;
+  overflow: auto;
+}
+
 table {
   width: 100%;
 }
