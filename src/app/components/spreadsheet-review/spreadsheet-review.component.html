@@ -1,4 +1,4 @@
-<div class="main-container">
+<div>
   <div class="flex-container">
     <button mat-raised-button color="primary" (click)="generateSpreadsheetUrl()">Generate Spreadsheet File</button>
 
@@ -7,7 +7,8 @@
     <button mat-raised-button color="warn" (click)="clearAllEmailItems()"> Clear All Items </button>
   </div>
 
-  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+  <div class="table-container mat-elevation-z8">
+    <table mat-table [dataSource]="dataSource" >
 
     <!-- Name Column -->
     <ng-container matColumnDef="name">
@@ -42,5 +43,6 @@
     <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
     <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
   </table>
+  </div>
 </div>
 
