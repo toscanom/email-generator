@@ -11,7 +11,7 @@
           </mat-form-field>
           <br>
           <mat-form-field>
-            <input matInput type="text" placeholder="Email" formControlName="name" id="email">
+            <input matInput type="text" placeholder="Email" formControlName="email" id="email">
             <mat-error *ngIf="hasError('email', 'required')">Email is required</mat-error>
           </mat-form-field>
           <br>
@@ -33,7 +33,7 @@
 
         <mat-card-actions>
           <mat-card-actions align="center">
-            <button mat-raised-button color="primary">Create Item</button>
+            <button mat-raised-button color="primary">Create Email Item</button>
           </mat-card-actions>
         </mat-card-actions>
       </form>

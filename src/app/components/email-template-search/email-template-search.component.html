@@ -1,7 +1,7 @@
 <div class="main-container">
   <mat-form-field>
     <mat-label>Filter</mat-label>
-    <input matInput (keyup)="applyFilter($event)" placeholder="Search"/>
+    <input matInput (keyup)="applyFilter($event)" placeholder="Search">
   </mat-form-field>
 
   <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
@@ -24,7 +24,7 @@
       <td mat-cell style="padding: 10px" *matCellDef="let element"> {{element.blurb}} </td>
     </ng-container>
 
-    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
     <tr mat-row *matRowDef="let row; columns: displayedColumns;" [routerLink]="'/emailForm/'+row.id"></tr>
   </table>
 </div>

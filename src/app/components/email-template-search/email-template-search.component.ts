@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 
-import { EmailItemsService } from "../../services/email-items.service";
 import { EmailTemplatesService } from "../../services/email-templates.service";
 
 import {MatTableDataSource} from '@angular/material/table';
@@ -16,7 +15,7 @@ export class EmailTemplateSearchComponent implements OnInit {
   dataSource;
   templates = <any>[];
 
-  constructor( private emailItemsService: EmailItemsService, private emailTemplatesService: EmailTemplatesService) { }
+  constructor( private emailTemplatesService: EmailTemplatesService) { }
 
   ngOnInit() {
     this.emailTemplatesService.getEmailTemplates().subscribe((emailTemplates) => {

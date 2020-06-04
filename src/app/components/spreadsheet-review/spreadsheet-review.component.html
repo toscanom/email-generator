@@ -1,14 +1,46 @@
-<p>spreadsheet-contents works!</p>
+<div class="main-container">
+  <div class="flex-container">
+    <button mat-raised-button color="primary" (click)="generateSpreadsheetUrl()">Generate Spreadsheet File</button>
 
-<div>
-  <button (click)="generateSpreadsheetUrl()">Generate Spreadsheet File</button>
+    <button mat-raised-button color="warn" style="padding-left: 10px; padding-right: 10px"> Delete Selected Items </button>
+
+    <button mat-raised-button color="warn" (click)="clearAllEmailItems()"> Clear All Items </button>
+  </div>
+
+  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+
+    <!-- Name Column -->
+    <ng-container matColumnDef="name">
+      <th mat-header-cell *matHeaderCellDef> Name </th>
+      <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+    </ng-container>
+
+    <!-- Email Column -->
+    <ng-container matColumnDef="email">
+      <th mat-header-cell *matHeaderCellDef> Email </th>
+      <td mat-cell style="padding: 10px" *matCellDef="let element"> {{element.email}} </td>
+    </ng-container>
+
+    <!-- Phone Column -->
+    <ng-container matColumnDef="phone">
+      <th mat-header-cell *matHeaderCellDef> Phone Number </th>
+      <td mat-cell style="padding: 10px" *matCellDef="let element"> {{element.phone}} </td>
+    </ng-container>
+
+    <!-- Subject Column -->
+    <ng-container matColumnDef="subject">
+      <th mat-header-cell *matHeaderCellDef> Subject </th>
+      <td mat-cell style="padding: 10px" *matCellDef="let element"> {{element.subject}} </td>
+    </ng-container>
+
+    <!-- Body Column -->
+    <ng-container matColumnDef="body">
+      <th mat-header-cell *matHeaderCellDef> Blurb </th>
+      <td mat-cell style="padding: 10px" *matCellDef="let element"> {{element.body}} </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
 </div>
 
-<div>
-  <ul>
-    <li *ngFor="let item of emailItems">
-      <h2>{{ item.name }} </h2>
-      <p> {{ item.blurb }} </p>
-    </li>
-  </ul>
-</div>

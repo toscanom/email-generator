@@ -1,0 +1,29 @@
+/* Structure */
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.padded-cell {
+  font-size: 14px;
+  width: 100%;
+}
+
+tr:hover {
+  background: whitesmoke;
+}
+
+.flex-container {
+  margin: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.mat-raised-button {
+  margin: 10px
+}
