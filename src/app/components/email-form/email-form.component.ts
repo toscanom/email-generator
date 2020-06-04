@@ -34,11 +34,6 @@ export class EmailFormComponent implements OnInit {
               private route: ActivatedRoute) { }
 
   ngOnInit() {
-    this.emailTemplatesService.getEmailTemplates().subscribe((emailTemplates) => {
-      this.emailTemplatesService.convertRawText(emailTemplates);
-      this.emailTemplate = this.emailTemplatesService.getEmailTemplate(this.route.snapshot.paramMap.get('id'));
-    });
-
     this.emailItemForm = new FormGroup({
       name: new FormControl('', [Validators.required]),
       email: new FormControl('', [Validators.required]),
@@ -47,6 +42,17 @@ export class EmailFormComponent implements OnInit {
       body: new FormControl('', [Validators.required])
     });
 
+    this.emailTemplatesService.getEmailTemplates().subscribe((emailTemplates) => {
+      this.emailTemplatesService.convertRawText(emailTemplates);
+      this.emailTemplate = this.emailTemplatesService.getEmailTemplate(this.route.snapshot.paramMap.get('id'));
+      this.emailItemForm.setValue({
+        name: '',
+        email: '',
+        phone: '',
+        subject: '',
+        body: this.emailTemplate.blurb
+      });
+    });
   }
 
   public hasError = (controlName: string, errorName: string) =>{
@@ -56,14 +62,6 @@ export class EmailFormComponent implements OnInit {
   createEmailItem(newEmailItem) {
     console.log(newEmailItem)
     this.emailItemsService.addEmailItem(newEmailItem);
-
-    this.emailItemForm.setValue({
-        name: '',
-        email: '',
-        phone: '',
-        subject: '',
-        body: this.emailTemplate.blurb
-    });
 
     Object.keys(this.emailItemForm.controls).forEach(key => {
       this.emailItemForm.get(key).setErrors(null) ;

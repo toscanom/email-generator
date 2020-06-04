@@ -9,7 +9,7 @@ const routes: Routes = [
   { path: '', component: EmailTemplateSearchComponent },
   { path: 'search', component: EmailTemplateSearchComponent },
   { path: 'spreadsheetContents', component: SpreadsheetReviewComponent },
-  { path: 'emailForm/:id', component: EmailFormComponent },
+  { path: 'createEmail/:id', component: EmailFormComponent },
 ];
 
 @NgModule({

@@ -26,7 +26,7 @@
           </mat-form-field>
           <br>
           <mat-form-field>
-            <textarea matInput type="text" placeholder="Email Body" formControlName="body" [value]="emailTemplate.blurb" [rows]="10"></textarea>
+            <textarea matInput type="text" placeholder="Email Body" formControlName="body" [rows]="10"></textarea>
             <mat-error *ngIf="hasError('body', 'required')">Email Body is required</mat-error>
           </mat-form-field>
         </mat-card-content>
