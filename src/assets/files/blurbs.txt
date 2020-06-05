@@ -2,7 +2,7 @@
 
 .Net Developer
 
-### I noticed that Fenergo is searching for a .Net Developer and wanted to share one of my candidates with you.  His technical knowledge includes C#, ASP.Net, AngularJS, XML, WCF, WPF, MVC, and SQL.  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.  Recognized for analyzing complex situations and creating new insights to improve business processes. A strategic thinker who plans clear goals and delivers high-value results.  He’s been at his current position for the past three years and is looking to make a change.  Graduated Cum Laude with a degree in Computer Science from Boston College.  Would you be interested in seeing his resume? ***
+### I noticed that Fenergo is searching for a .Net Developer and wanted to share one of my candidates with you.  His technical knowledge includes C#, ASP.Net, AngularJS, XML, WCF, WPF, MVC, and SQL.  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.  Recognized for analyzing complex situations and creating new insights to improve business processes. A strategic thinker who plans clear goals and delivers high-value results.  He’s been at his current position for the past three years and is looking to make a change.  Graduated Cum Laude with a degree in Computer Science from COLLEGE_PLACEHOLDER.  Would you be interested in seeing his resume? ***
 
 
 

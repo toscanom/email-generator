@@ -9,7 +9,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 
 import { MatCardModule, MatInputModule, MatPaginatorModule, MatProgressSpinnerModule,
   MatSortModule, MatTableModule, MatButtonModule, MatToolbarModule, MatIconModule, MatSidenavModule,
-  MatListModule } from "@angular/material";
+  MatListModule, MatSelectModule, MatOptionModule } from "@angular/material";
 
 import { EmailTemplateSearchComponent } from './components/email-template-search/email-template-search.component';
 import { SpreadsheetReviewComponent } from './components/spreadsheet-review/spreadsheet-review.component';
@@ -39,7 +39,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     MatCardModule,
     MatInputModule,
     MatTableModule,
+    MatOptionModule,
     MatPaginatorModule,
+    MatSelectModule,
     MatSortModule,
     MatProgressSpinnerModule,
     MatToolbarModule,
