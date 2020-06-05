@@ -13,7 +13,7 @@ import { SpreadsheetGeneratorService } from "../../services/spreadsheet-generato
 export class SpreadsheetReviewComponent implements OnInit {
 
   fileUrl;
-  downloadFilename = 'email-spreadsheet.txt';
+  downloadFilename = 'email-spreadsheet.xlsx';
   emailItems = <any>[];
 
   displayedColumns: string[] = ['name','email','phone', 'subject', 'body'];

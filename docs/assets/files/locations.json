@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Charlotte",
+    "phone": "(980) 222-0188",
+    "college": "NC State"
+  },
+  {
+    "name": "Atlanta",
+    "phone": "(404) 382-8305",
+    "college": "Geogia Tech"
+  },
+  {
+    "name": "Jacksonville",
+    "phone": "(904) 580-3223 x 1001",
+    "college": "University of Florida"
+  },
+  {
+    "name": "Washington DC",
+    "phone": "(703) 972-4141 x 1001",
+    "college": "Virginia Tech"
+  },
+  {
+    "name": "Richmond",
+    "phone": "(804) 510-2303 x 1001",
+    "college": "Virginia Tech"
+  },
+  {
+    "name": "Philadelphia",
+    "phone": "(215) 971-2888 x 1001",
+    "college": "Penn State"
+  },
+  {
+    "name": "New York",
+    "phone": "(646) 863-0505 x 1001",
+    "college": "Boston College"
+  },
+  {
+    "name": "Boston",
+    "phone": "(857) 245-7322",
+    "college": "Boston College"
+  },
+  {
+    "name": "Chicago",
+    "phone": "(312) 766-7353",
+    "college": "University of Michigan"
+  },
+  {
+    "name": "Dallas",
+    "phone": "(469) 257-4295",
+    "college": "University of Texas at Austin"
+  },
+  {
+    "name": "Austin",
+    "phone": "(512) 900-2474 x 1001",
+    "college": "University of Texas at Austin"
+  },
+  {
+    "name": "Houston",
+    "phone": "(346) 800-1147 x 1001",
+    "college": "University of Texas at Austin"
+  },
+  {
+    "name": "Nashville",
+    "phone": "(629) 777-1414 x 1001",
+    "college": "University of Tennessee"
+  },
+  {
+    "name": "Oklahoma City",
+    "phone": "(405) 437-4311 x 1001",
+    "college": "University of Oklahoma"
+  },
+  {
+    "name": "Des Moines",
+    "phone": "(515) 512-9188 x 1001",
+    "college": "University of Iowa"
+  },
+  {
+    "name": "Seattle",
+    "phone": "(206) 259-2440 x 1001",
+    "college": "University of Washington"
+  },
+  {
+    "name": "Portland",
+    "phone": "(971) 373-4010 x 1001",
+    "college": "University of Oregon"
+  },
+  {
+    "name": "San Francisco",
+    "phone": "(415) 857-0070 x 1001",
+    "college": "UC Berkeley"
+  },
+  {
+    "name": "Los Angeles",
+    "phone": "(323) 471-0145 x 1001",
+    "college": "UCLA"
+  },
+  {
+    "name": "Phoenix",
+    "phone": "(480) 771-4181 x 1001",
+    "college": "Arizona State"
+  },
+  {
+    "name": "Salt Lake City",
+    "phone": "(801) 893-9533 x 1001",
+    "college": "University of Utah"
+  },
+  {
+    "name": "Minneapolis",
+    "phone": "(763) 225-4757 x 1001",
+    "college": "University of Minnesota"
+  },
+  {
+    "name": "Denver",
+    "phone": "(720) 441-6151 x 1001",
+    "college": "University of Colorado"
+  },
+  {
+    "name": "Cincinnati",
+    "phone": "(513) 914-4680 x 1001",
+    "college": "Ohio State"
+  },
+  {
+    "name": "Columbus",
+    "phone": "(614) 803-9222 x 1001",
+    "college": "Ohio State"
+  },
+  {
+    "name": "Miami",
+    "phone": "(305) 902-6449 x 1001",
+    "college": "University of Florida"
+  },
+  {
+    "name": "Orlando",
+    "phone": "(321) 710-7927 x 1001",
+    "college": "Universtiy of Florida"
+  },
+  {
+    "name": "Raleigh",
+    "phone": "(919) 521-5901 x 1001",
+    "college": "UNC"
+  }
+]
