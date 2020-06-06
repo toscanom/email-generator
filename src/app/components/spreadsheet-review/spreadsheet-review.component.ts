@@ -16,7 +16,7 @@ export class SpreadsheetReviewComponent implements OnInit {
   downloadFilename = 'email-spreadsheet.xlsx';
   emailItems = <any>[];
 
-  displayedColumns: string[] = ['name','email','phone', 'subject', 'body'];
+  displayedColumns: string[] = ['name','email','phone', 'subject', 'body', 'action'];
   dataSource;
 
   constructor(private emailItemsService: EmailItemsService, private spreadsheetGeneratorService: SpreadsheetGeneratorService) { }
@@ -32,5 +32,9 @@ export class SpreadsheetReviewComponent implements OnInit {
   clearAllEmailItems() {
     this.emailItemsService.setEmailItems([]);
     this.dataSource = new MatTableDataSource(this.emailItemsService.getEmailItems());
+  }
+
+  openEmailItemDialog() {
+
   }
 }

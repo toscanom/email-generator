@@ -21,13 +21,6 @@ tr:hover {
   background: whitesmoke;
 }
 
-.flex-container {
-  margin: 0;
-  list-style: none;
-  display: flex;
-  justify-content: center;
-}
-
 .mat-raised-button {
   margin: 10px
 }
