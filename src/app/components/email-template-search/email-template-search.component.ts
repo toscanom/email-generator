@@ -38,7 +38,6 @@ export class EmailTemplateSearchComponent implements OnInit {
 
   openBlurbDialog(mode, item) {
     console.log('Blurb Dialog Mode:' + mode);
-
   }
 
   openEmailItemDialog(emailTemplate) {
@@ -51,10 +50,7 @@ export class EmailTemplateSearchComponent implements OnInit {
     });
 
     dialogRef.afterClosed().subscribe(result => {
-      console.log('Dialog Result');
-      console.info(result);
-
-      if(result.event == 'Add') {
+      if(result && result.event == 'Add') {
         this.snackBar.open('Email Item Added!', '', {
           duration: 2000,
         });

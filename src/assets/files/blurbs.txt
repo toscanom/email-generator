@@ -1,98 +1,194 @@
-
-
 .Net Developer
 
-### I noticed that Fenergo is searching for a .Net Developer and wanted to share one of my candidates with you.  His technical knowledge includes C#, ASP.Net, AngularJS, XML, WCF, WPF, MVC, and SQL.  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.  Recognized for analyzing complex situations and creating new insights to improve business processes. A strategic thinker who plans clear goals and delivers high-value results.  He’s been at his current position for the past three years and is looking to make a change.  Graduated Cum Laude with a degree in Computer Science from COLLEGE_PLACEHOLDER.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  His technical knowledge includes [Industry].  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.  Recognized for analyzing complex situations and creating new insights to improve business processes. A strategic thinker who plans clear goals and delivers high-value results.  He’s been at his current position for the past three years and is looking to make a change.  Graduated Cum Laude with a degree in Computer Science from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Software Engineer
 
-### I noticed that Sonian is searching for a Software Engineer and wanted to share one of my candidates with you.  His technical knowledge includes Ruby, ElasticSearch, PostgreSQL, MySQL, Chef, AWS, Jenkins and Spark.  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.   Recognized for analyzing complex situations and creating new insights to improve business processes. A strategic thinker who plans clear goals and delivers high-value results.  He’s been at his current position for the past three years and is looking to make change.  Graduated Cum Laude with a degree in Computer Science from Boston College.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  His technical knowledge includes [Industry].  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.   Recognized for analyzing complex situations and creating new insights to improve business processes. A strategic thinker who plans clear goals and delivers high-value results.  He’s been at his current position for the past three years and is looking to make change.  Graduated Cum Laude with a degree in Computer Science from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 iOS Developer
 
-### I noticed that Punchkick Interactive is searching for a Senior iOS Developer and wanted to share one of my candidates with you.  He has 8+ years of experience and his technical knowledge includes Objective-C, Cocoa Touch, Swift, Core Location, and iOS.  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.  Designed and executed mobile platform strategy for enterprise applications and played a critical role in determining technology platform that meets current and future demands.  Recognized for analyzing complex situations and creating new insights to improve business processes.  He's been at his current position for the past two years and is looking to make a change.  Graduated Cum Laude with a degree in Computer Science from the University of Michigan.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of experience and his technical knowledge includes [Industry].  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.  Designed and executed mobile platform strategy for enterprise applications and played a critical role in determining technology platform that meets current and future demands.  Recognized for analyzing complex situations and creating new insights to improve business processes.  He's been at his current position for the past two years and is looking to make a change.  Graduated Cum Laude with a degree in Computer Science from the [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Web Developer
 
-### I noticed that Unizin is searching for a Front End Web Developer and wanted to share one of my candidates with you.  His technical knowledge includes HTML5, CSS3, JavaScript libraries, AngularJS, XML, XHTML, AJAX, JQuery, Django, MySQL, Linux, Unix, Adobe Photoshop and Illustrator.  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.   Recognized for analyzing complex situations and creating new insights to improve business processes. A strategic thinker who plans clear goals and delivers high-value results.  He’s been at his current position for the past three years and is looking to make a change.  Graduated Cum Laude with a degree in Computer Science from the University of Michigan.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  His technical knowledge includes [Industry].  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.   Recognized for analyzing complex situations and creating new insights to improve business processes. A strategic thinker who plans clear goals and delivers high-value results.  He’s been at his current position for the past three years and is looking to make a change.  Graduated Cum Laude with a degree in Computer Science from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Database Developer
 
-### I noticed that Tegnosis was searching for a Database Developer and wanted to share one of my candidates with you. He's an exceptional Business Intelligence Engineer with proven expertise in enterprise report generation and software development having 8+ years of experience working with SQL, T-SQL, Kimball, OLTP databases, SSRS, SSAS, MDX, OLAP tools and SSIS. Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation. Recognized for analyzing complex situations and creating new insights to improve business processes.  A strategic thinker who plans clear goals and delivers high-value results.  Graduated Cum Laude with a BS in Computer Science from Georgia Tech.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] was searching for [a/an] [Subject] and wanted to share one of my candidates with you. He's an exceptional Business Intelligence Engineer with proven expertise in enterprise report generation and software development having [Years] years of experience working with [Industry]. Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation. Recognized for analyzing complex situations and creating new insights to improve business processes.  A strategic thinker who plans clear goals and delivers high-value results.  Graduated Cum Laude with a BS in Computer Science from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Director of Information Technology
 
-### I noticed that Froehling, Inc. is searching for a Director of Information Technology and wanted to share one of my candidates with you.  He has ten plus years of experience in systems planning, infrastructure, applications, IT operations, administration, and technology support for mission-critical environments.  Pragmatic leadership balancing tactical execution and strategic business thinking with responsibility for technology budgets, quality, and product feature-functionality.  Senior technical resource with current hands-on skills and a record of successfully guiding technology direction, IT staff, and improving IT services and support.  Recognized for analyzing complex situations and creating new insights to improve business processes. Holds a BS in Computer Science from Virginia Tech.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of experience in [Industry].  Pragmatic leadership balancing tactical execution and strategic business thinking with responsibility for technology budgets, quality, and product feature-functionality.  Senior technical resource with current hands-on skills and a record of successfully guiding technology direction, IT staff, and improving IT services and support.  Recognized for analyzing complex situations and creating new insights to improve business processes. Holds a BS in Computer Science from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Director of Application Development
 
-### I noticed that Unizin is searching for a Director of Application Development and wanted to share one of my candidates with you.  He has over 15 years’ experience applying proven technical, communication and problem-solving skills to guide multiple development teams through all phases of development, deployment and ongoing support of mission-critical enterprise applications.  Knowledgeable in system and software best practices and methodologies with experience in applying expertise in effective project and program management within startup, corporate, product development and hosted applications environments.  Highly effective collaborating across the enterprise to set direction for the application development group ensuring alignment with strategic priorities.  A hands-on leader who can build and lead teams by fostering innovation and a results-oriented environment while creating accountability.  Graduated Cum Laude with a degree in Computer Science from the University of Michigan.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has over [Years] years’ experience applying proven technical, communication and problem-solving skills to guide multiple development teams through all phases of development, deployment and ongoing support of mission-critical enterprise applications.  Knowledgeable in system and software best practices and methodologies with experience in applying expertise in effective project and program management within startup, corporate, product development and hosted applications environments.  Highly effective collaborating across the enterprise to set direction for the application development group ensuring alignment with strategic priorities.  A hands-on leader who can build and lead teams by fostering innovation and a results-oriented environment while creating accountability.  Graduated Cum Laude with a degree in Computer Science from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Director of Information Security
 
-### I noticed that Solis Mammography is searching for a Director of Information Security and wanted to share one of my candidates with you.  He’s a strong Information Security leader with extensive experience in all areas of Information Systems and Operations including Financial, Operational and Systems Auditing, Risk Management, Information Security and Disaster Recovery/Contingency Planning.  Keen understanding of the value created by partnering with the business to balance needs of the corporation with the growing number of controls required to mitigate risk due to the ever increasing complex technology and regulatory requirements.  Recognized for analyzing complex situations and creating new insights to improve business processes. Holds a CISSP and MBA from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for a [Subject]and wanted to share one of my candidates with you.  He’s a strong Information Security leader with extensive experience in all areas of Information Systems and Operations including Financial, Operational and Systems Auditing, Risk Management, Information Security and Disaster Recovery/Contingency Planning.  Keen understanding of the value created by partnering with the business to balance needs of the corporation with the growing number of controls required to mitigate risk due to the ever increasing complex technology and regulatory requirements.  Recognized for analyzing complex situations and creating new insights to improve business processes. Holds a CISSP and MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Network Administrator
 
-### I noticed that Van Ru Credit Corporation is searching for a Network Administrator and wanted to share one of my candidates with you.  He has 8+ years of work experience with Cisco routers/switches, firewalls, Microsoft Server, Microsoft, Exchange, Active Directory, TCP/IP protocols and Lan/Wan. Extensive knowledge of the current state of technology covering the spectrum from large distributed environments with multi-tiered application architectures to desktop computing and personal digital assistants.  Skilled in systematic planning to securely leverage emerging technology allowing increased productivity and lowered costs.  Recognized for analyzing complex situations and creating new insights to improve business processes.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of work experience with [Industry]. Extensive knowledge of the current state of technology covering the spectrum from large distributed environments with multi-tiered application architectures to desktop computing and personal digital assistants.  Skilled in systematic planning to securely leverage emerging technology allowing increased productivity and lowered costs.  Recognized for analyzing complex situations and creating new insights to improve business processes.  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 System Engineer
 
-### I noticed that IMC is searching for a System Engineer and wanted to share one of my candidates with you.  He has 8+ years of work experience and his technical knowledge includes Linux, Windows, MAC OS environments, shell scripting Bash, Python and Perl, Chef, Puppet, Jenkins, Linux/Unix, TCP/IP, and Microsoft SQL.  Proficiency in meeting requirements while protecting assets by applying the principles of Server Life Cycle Management, SOX Compliance, and Patch Management.  Recognized for analyzing complex situations and creating new insights to improve business processes.  He’s a strategic thinker who plans clear goals and delivers high-value results.  Graduated Cum Laude with a degree in Computer Science from the University of Michigan.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of work experience and his technical knowledge includes [Industry].  Proficiency in meeting requirements while protecting assets by applying the principles of Server Life Cycle Management, SOX Compliance, and Patch Management.  Recognized for analyzing complex situations and creating new insights to improve business processes.  He’s a strategic thinker who plans clear goals and delivers high-value results.  Graduated Cum Laude with a degree in Computer Science from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 System Administrator
 
-### I noticed that IMC is searching for a System Administrator and wanted to share one of my candidates with you.  He has 8+ years of work experience and his technical knowledge includes Windows, MAC OS environments, Linux/Unix, TCP/IP, and Microsoft SQL.  Proficiency in meeting requirements while protecting assets by applying the principles of Server Life Cycle Management, SOX Compliance, and Patch Management.  Recognized for analyzing complex situations and creating new insights to improve business processes.  He’s a strategic thinker who plans clear goals and delivers high-value results.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of work experience and his technical knowledge includes [Industry].  Proficiency in meeting requirements while protecting assets by applying the principles of Server Life Cycle Management, SOX Compliance, and Patch Management.  Recognized for analyzing complex situations and creating new insights to improve business processes.  He’s a strategic thinker who plans clear goals and delivers high-value results.  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Help Desk Engineer
 
-### I noticed that IMC is searching for a Help Desk Engineer and wanted to share one of my candidates with you.  He’s an accomplished support desk engineer with a rapidly increasing range of industry experience looking to bring strong instincts and a proven record of procedural compliance, process management and strong operational skills to a rapidly growing company.  Technical knowledge includes Apple/PC Hardware/Software diagnosis and repair of desktops/laptops, Windows 98-Current, Apple OS X (Cheetah to Yosemite), Help Desk, Microsoft Office, Problem-solving, Servers, Supervising, Switches, TCP/IP, Desktop Support, Troubleshooting, and VPN.  He’s a strategic thinker who plans clear goals and delivers high-value results.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished support desk engineer with a rapidly increasing range of industry experience looking to bring strong instincts and a proven record of procedural compliance, process management and strong operational skills to a rapidly growing company.  Technical knowledge includes [Industry].  He’s a strategic thinker who plans clear goals and delivers high-value results.  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Database Administrator
 
-### I noticed that IMC is searching for a Database Administrator and wanted to share one of my candidates with you.  He has 8+ years of experience in the design, installation and administration of database solutions to optimally support business needs.  Experienced in configuring, optimizing and administering all features of SQL Databases including logical and physical database design and migration, performance tuning, capacity planning, back-up/recovery and data redundancy.  Ability to consistently create and implement new standards has resulted in increased efficiency, reduced support costs, and enhancement of overall data quality.  He’s a strategic thinker who plans clear goals and delivers high-value results.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of experience in the design, installation and administration of database solutions to optimally support business needs.  Experienced in configuring, optimizing and administering all features of [Industry] Databases including logical and physical database design and migration, performance tuning, capacity planning, back-up/recovery and data redundancy.  Ability to consistently create and implement new standards has resulted in increased efficiency, reduced support costs, and enhancement of overall data quality.  He’s a strategic thinker who plans clear goals and delivers high-value results.  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Data Architect
 
-### I noticed that Exusia is searching for a Solution Architect/Big Data Engineer and wanted to share one of my candidates with you.  He’s an accomplished Solutions Architect with eight plus years of successful experience working with clients and data analysts to gather and manage the large batch data architecture process.  His technical knowledge includes C, Java, JSON, SQL, XML, Hadoop, MongoDB, Cassandra, ETL, Informatica, and MicroStrategy.  Recognized for analyzing complex situations and creating new insights to improve business processes. A strategic thinker who plans clear goals and delivers high-value results.  He’s been at his current position for the past three years and is looking to make a change.  Holds a Ph.D in Computer Science from the University of Michigan.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished Solutions Architect with [Years] plus years of successful experience working with clients and data analysts to gather and manage the large batch data architecture process.  His technical knowledge includes [Industry].  Recognized for analyzing complex situations and creating new insights to improve business processes. A strategic thinker who plans clear goals and delivers high-value results.  He’s been at his current position for the past three years and is looking to make a change.  Holds a Ph.D in Computer Science from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Project Manager
 
-### I noticed that Exusia is searching for a Project Manager and wanted to share one of my candidates with you.  He’s an accomplished Project Management and Operations Professional with extensive experience working for Fortune 500 companies in multiple industry sectors.  Expertise in business planning, project life cycle, configuration management, resource management, process development/improvement, and application training/development.  Proven track record of directing multiple projects ensuring on-time and on-budget completion.  Demonstrated ability to build results-driven teams through mentoring coupled with a strong focus on metrics.  Holds a MBA from the University of Texas at Austin. Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished Project Management and Operations Professional with extensive experience working for Fortune 500 companies in multiple industry sectors.  Expertise in business planning, project life cycle, configuration management, resource management, process development/improvement, and application training/development.  Proven track record of directing multiple projects ensuring on-time and on-budget completion.  Demonstrated ability to build results-driven teams through mentoring coupled with a strong focus on metrics.  Holds a MBA from [COLLEGE]. Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Product Manager
 
-### I noticed that Exusia is searching for a Product Manager and wanted to share one of my candidates with you.  He’s an accomplished and results driven professional with 15+ years of industry experience delivering new products in the areas of highly scalable, highly available distributed index and cache applications, private and public cloud deployments (Saas, PaaS), e-commerce and web services.  Proficient in defining strategy, building short and long term marketing plans and driving execution. A team player with strong leadership skills and an ability to combine business and technological understanding to drive optimal business results.  Holds a MBA from the University of Texas at Austin. Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished and results driven professional with [Years] years of industry experience delivering new products in the areas of highly scalable, highly available distributed index and cache applications, private and public cloud deployments (Saas, PaaS), e-commerce and web services.  Proficient in defining strategy, building short and long term marketing plans and driving execution. A team player with strong leadership skills and an ability to combine business and technological understanding to drive optimal business results.  Holds a MBA from [COLLEGE]. Would you be interested in seeing his resume? ***
+
+
+
+
+
+
 
 
 
@@ -100,73 +196,147 @@ Product Manager
 
 Sales Executive
 
-### I noticed that Mikan Associates is searching for a Sales Executive and wanted to share one of my candidates with you.  He’s an accomplished Sales Executive with ten plus years of successful experience selling to Senior and “C-Level” Management of Fortune 500 Companies in various industry sectors.  Highly motivated, results oriented individual with excellent analytical, problem solving, and troubleshooting skills. Able to learn and adapt very quickly, multitask efficiently, and meet hard deadlines under pressure. Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  Graduated with honors from Duke University.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished Sales Executive with [Years] years of successful experience selling to Senior and “C-Level” Management in the [Industry] industry.  Highly motivated, results oriented individual with excellent analytical, problem solving, and troubleshooting skills. Able to learn and adapt very quickly, multitask efficiently, and meet hard deadlines under pressure. Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  Graduated with honors from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Sales Executive (Tech)
 
-### I noticed that Mikan Associates is searching for a Sales Executive and wanted to share one of my candidates with you.  He’s an accomplished Sales Executive with ten plus years of successful experience selling Enterprise Solutions to Senior and “C-Level” Management of Fortune 500 Companies in various industry sectors.  Strong background with SaaS software offerings, full life cycle development, and ROI-driven solution sales focused.  Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  Graduated with honors from Duke University.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished Sales Executive with [Years] years of successful experience selling Enterprise Solutions to Senior and “C-Level” Management in the [Industry] industry.  Strong background with SaaS software offerings, full life cycle development, and ROI-driven solution sales focused.  Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  Graduated with honors from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Sales Director
 
-### I noticed that Mikan Associates is searching for a Sales and Marketing Director and wanted to share one of my candidates with you.  He’s an accomplished Sales Director with ten plus years of successful sales leadership managing a team selling Enterprise Solutions to Senior and “C-Level” Management of Fortune 500 Companies in various industry sectors.  Strong background with SaaS software offerings, full life cycle development, and ROI-driven solution sales focused.  Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  Holds a MBA from the University of Michigan.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished Sales Director with [Years] years of successful sales leadership managing a team selling Enterprise Solutions to Senior and “C-Level” Management of Fortune 500 Companies in the [Industry] industry.  Strong background with SaaS software offerings, full life cycle development, and ROI-driven solution sales focused.  Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 VP of Sales
 
-### I noticed that Benchmark Senior Living is searching for a VP of Sales and wanted to share one of my candidates with you.  He’s an accomplished VP of Sales with fifteen plus years of experience in Sales/Marketing, Sales Management, and Executive Management.  A focused, highly driven professional with a passion for business whose career has been characterized by increasing responsibilities and notable achievements.  Diverse responsibilities encompass overseeing daily operations, managing sales and marketing campaigns, and training both clients and co-workers in company systems.  Holds a MBA from the University of Michigan.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished VP of Sales with [Years] years of experience in Sales/Marketing, Sales Management, and Executive Management focused in the [Industry] industry.  A focused, highly driven professional with a passion for business whose career has been characterized by increasing responsibilities and notable achievements.  Diverse responsibilities encompass overseeing daily operations, managing sales and marketing campaigns, and training both clients and co-workers in company systems.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 VP of Client Services
 
-### I noticed that Benchmark Senior Living is searching for a VP of Client Services and wanted to share one of my candidates with you.  He’s an accomplished, results-driven leader with 15+ years of proven experience leading client relationships including client/agency, B2C/B2B and blue chip organizations.  Passionate articulate professional with exceptional ability to form trusting, long lasting partnerships. Highly strategic, analytical and creative with proven track record for building brand equity, increasing consumer loyalty, penetrating new markets and accelerating revenue growth.  A visionary leader known for motivating and inspiring staff to deliver exceptional business results.  Holds a MBA from the University of Michigan.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished, results-driven leader with [Years] years of proven experience leading client relationships including client/agency, B2C/B2B and organizations in the [Industry] industry.  Passionate articulate professional with exceptional ability to form trusting, long lasting partnerships. Highly strategic, analytical and creative with proven track record for building brand equity, increasing consumer loyalty, penetrating new markets and accelerating revenue growth.  A visionary leader known for motivating and inspiring staff to deliver exceptional business results.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Business Analyst
 
-### I noticed that Benchmark Senior Living is searching for a Business Analyst and wanted to share one of my candidates with you.  He’s has 15+ years of experience and expertise in delivering project results within schedule, cost and performance constraints.  Skilled in project scoping, gathering and documenting business and functional requirements, test planning and execution. Proven history of quality deliverables meeting and exceeding client expectations.  A team player with strong leadership skills and an ability to combine business and technological understanding to drive optimal business results. Holds a BS in Information Systems from the University of Georgia.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s has [Years] years of experience and expertise in delivering project results within schedule, cost and performance constraints.  Skilled in project scoping, gathering and documenting business and functional requirements, test planning and execution. Proven history of quality deliverables meeting and exceeding client expectations.  A team player with strong leadership skills and an ability to combine business and technological understanding to drive optimal business results. Holds a BS in Information Systems from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Business Operations Analyst
 
-### I noticed that Benchmark Senior Living is searching for a Business Operations Analyst and wanted to share one of my candidates with you.  He’s a resourceful and deadline-driven Analyst with 8+ years of experience in operations, technology, and strategic analysis and planning. Unsurpassed ability to analyze complex data pools to uncover trends and develop mission-critical improvements by leveraging increased insight through data. Strong ability to communicate technically and non-technically and maintain superior capability to operate cross-functionally and exceed business goals. Holds a BS in Information Systems from the University of Georgia.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for a [Subject] and wanted to share one of my candidates with you.  He’s a resourceful and deadline-driven Analyst with [Years] years of experience in operations, technology, and strategic analysis and planning in the [Industry] industry. Unsurpassed ability to analyze complex data pools to uncover trends and develop mission-critical improvements by leveraging increased insight through data. Strong ability to communicate technically and non-technically and maintain superior capability to operate cross-functionally and exceed business goals. Holds a BS in Information Systems from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Sales Operations
 
-### I noticed that Benchmark Senior Living is searching for a Director of Sales Operations and wanted to share one of my candidates with you.  He has 15+ years of experience supporting sales operations for industry leaders and excels in partnering with sales leaders to optimize performance and field selling time by managing commission plans, forecasting, pipeline/market analysis and customer fulfillment. Consistently exceeded performance metrics for business development and client retention. Strong capabilities in interdepartmental collaboration and aligning multiple departments to achieve organizational profitability goals. A strategic thinker who plans clear goals and delivers high-value results.   Holds a MBA from Harvard.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of experience supporting sales operations for industry leaders and excels in partnering with sales leaders to optimize performance and field selling time by managing commission plans, forecasting, pipeline/market analysis and customer fulfillment focused in the [Industry] industry. Consistently exceeded performance metrics for business development and client retention. Strong capabilities in interdepartmental collaboration and aligning multiple departments to achieve organizational profitability goals. A strategic thinker who plans clear goals and delivers high-value results.   Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Pre-Sales (Network)
 
-### I noticed that SwiftStack Inc. is searching for a Systems Engineer/Pre-Sales and wanted to share one of my candidates with you.  He’s an accomplished Pre-Sales Engineer with eight plus years of successful pre-sales performance selling Enterprise Solutions to Senior and “C-Level” Management of Fortune 500 Companies in various industry sectors.  His technical knowledge includes Red Hat Linux, Ubuntu, VMWare products, Client-Server and SAN and Networking environments. Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  Graduated Cum Laude with a degree in Computer Science from Georgia Tech.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished Pre-Sales Engineer with [Years] years of successful pre-sales performance selling Enterprise Solutions to Senior and “C-Level” Management of Fortune 500 Companies in various industry sectors.  His technical knowledge includes [Industry]. Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  Graduated Cum Laude with a degree in Computer Science from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Pre-Sales (Software)
 
-### I noticed that Mediacurrent is searching for a Solutions Architect and wanted to share one of my candidates with you.  He’s an accomplished Pre-Sales Engineer with eight plus years of successful performance selling Enterprise Solutions to Senior and “C-Level” Management of Fortune 500 Companies in various industry sectors.  His technical knowledge includes Drupal, HTML, JavaScript, AngularJS, Git, PHP, MySQL, and Linux. Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  Graduated Cum Laude with a degree in Computer Science from Georgia Tech.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished Pre-Sales Engineer with [Years] years of successful performance selling Enterprise Solutions to Senior and “C-Level” Management of Fortune 500 Companies in various industry sectors.  His technical knowledge includes [Industry]. Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  Graduated Cum Laude with a degree in Computer Science from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Inside Sales
 
-### I noticed that Epazz is searching for an Inside Software Sales Specialist and wanted to share one of my candidates with you.  He’s an accomplished Inside Sales Representative with three plus years of successful sales performance selling Enterprise Solutions to Senior and “C-Level” Management of Fortune 500 Companies in various industry sectors.  Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  A strategic thinker who plans clear goals and delivers high-value results.  Graduated with honors from the University of Michigan.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished Inside Sales Representative with [Years] years of successful sales performance selling Enterprise Solutions to Senior and “C-Level” Management in the [Industry] industry.  Recognized for being a superior performer with a strong work ethic, unwavering integrity and the ambition for setting high standards to deliver aggressive bottom line results.  A strategic thinker who plans clear goals and delivers high-value results.  Graduated with honors from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Customer Success Manager
 
-### I noticed that Van Ru Credit Corporation is searching for a Customer Success Manager and wanted to share one of my candidates with you.  He has 8+ years of experience as a Dynamic, tech-savvy leader with progressive experience in customer success, account management, client services and consulting.  Strong SaaS background and exceptionally skilled with the creation of new features to meet customer requirements, product demonstrations, support through event lifecycle, customer upsell and cross sell, relationship management, victory conditions and final testing of all software components before rollout to the customer.  Holds a BS in Information Systems from the University of Georgia.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of experience as a Dynamic, tech-savvy leader with progressive experience in customer success, account management, client services and consulting focused in the [Industry] industry.  Strong SaaS background and exceptionally skilled with the creation of new features to meet customer requirements, product demonstrations, support through event lifecycle, customer upsell and cross sell, relationship management, victory conditions and final testing of all software components before rollout to the customer.  Holds a BS in Information Systems from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
+
+
 
 
 
@@ -174,29 +344,59 @@ Customer Success Manager
 
 Logistics Analyst
 
-### I noticed that Exusia is searching for a Logistics Analyst and wanted to share one of my candidates with you.  He’s an accomplished Logistics professional with extensive experience in quality assurance, materials planning and control, global supply chain, hazardous materials, logistics, supply support, and inventory tracking.  Proficient in logistic management systems, Access database management, contracting processes, and pre and post award procurement documentation.  Consistent history of reducing expenses and streamlining workflow while enhancing quality.  Holds a BS in Supply Chain Management from the University of Illinois.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an accomplished Logistics professional with extensive experience in quality assurance, materials planning and control, global supply chain, hazardous materials, logistics, supply support, and inventory tracking.  Proficient in logistic management systems, Access database management, contracting processes, and pre and post award procurement documentation.  Consistent history of reducing expenses and streamlining workflow while enhancing quality.  Holds a BS in Supply Chain Management from the [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Director of Operations
 
-### I noticed that Verrex is searching for a Chief Operating Officer and wanted to share one of my candidates with you. He has 15+ years of experience as a dynamic leader with progressive experience in operations management, account management, and client services.  Possesses extensive expertise in managing complex financial operations, generating new business and expanding business as well as a strong history of success migrating processes. Extraordinary talent to direct projects, motivate and guide diverse teams to mutual goals and objectives as a diversity specialist. Demonstrates relationship building skills both with internal and external business partners, as well as capabilities to secure customer loyalty and generate substantial profit and revenue channels.  A strategic thinker who plans clear goals and delivers high-value results.   Holds a MBA from Harvard.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you. He has [Years] years of experience as a dynamic leader with progressive experience in operations management, account management, and client services focused in the [Industry] industry.  Possesses extensive expertise in managing complex financial operations, generating new business and expanding business as well as a strong history of success migrating processes. Extraordinary talent to direct projects, motivate and guide diverse teams to mutual goals and objectives as a diversity specialist. Demonstrates relationship building skills both with internal and external business partners, as well as capabilities to secure customer loyalty and generate substantial profit and revenue channels.  A strategic thinker who plans clear goals and delivers high-value results.   Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 VP of Administration
 
-### I noticed that Verrex is searching for a VP of Administration and wanted to share one of my candidates with you.  He’s a dedicated leader with a well-established ability to provide full scope of administrative leadership, including Human Resources, Customer Service and Account Management. Results-oriented logistician able to cultivate human capital to optimize performance and improve processes to create value. Strategic and perceptive, with the ability to implement technology to focus on what matters most. Effective communicator able to build exceptionally talented teams that are motivated to make a difference.  Holds a MBA from Harvard.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a dedicated leader with a well-established ability to provide full scope of administrative leadership, including Human Resources, Customer Service and Account Management focused in the [Industry] industry. Results-oriented logistician able to cultivate human capital to optimize performance and improve processes to create value. Strategic and perceptive, with the ability to implement technology to focus on what matters most. Effective communicator able to build exceptionally talented teams that are motivated to make a difference.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 VP of Engineering
 
-### I noticed that Solis Mammography is searching for a VP of Engineering and wanted to share one of my candidates with you. He has 15+ years of experience as a dynamic, tech-savvy leader with progressive experience in operations management, customer success, account management, client services and consulting.  Pragmatic leadership balancing tactical execution and strategic business thinking with responsibility for technology budgets, quality, and product feature-functionality. Recognized for analyzing complex situations and creating new insights to improve business processes. Holds a MBA from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you. He has [Years] years of experience as a dynamic, tech-savvy leader with progressive experience in operations management, customer success, account management, client services and consulting.  Pragmatic leadership balancing tactical execution and strategic business thinking with responsibility for technology budgets, quality, and product feature-functionality. Recognized for analyzing complex situations and creating new insights to improve business processes. Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
 
 Director of Marketing
 
-### I noticed that Verrex is searching for a Director of Marketing and wanted to share one of my candidates with you.  He’s a results-proven marketing director with extensive digital and traditional marketing experience in corporate, retail, and nonprofit sectors. Record of success in the concept-to-launch leadership of campaigns, events, and programs propelling record-setting revenue gains (multimillion-dollar growth) and customer-base expansion. Excel in developing compelling collateral, cohesive brands, lasting partnerships, strong grassroots/media/donor support, and high-performance teams.  Holds a MBA from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a results-proven marketing director with extensive digital and traditional marketing experience in the [Industry] industry. Record of success in the concept-to-launch leadership of campaigns, events, and programs propelling record-setting revenue gains (multimillion-dollar growth) and customer-base expansion. Excel in developing compelling collateral, cohesive brands, lasting partnerships, strong grassroots/media/donor support, and high-performance teams.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
+
+
 
 
 
@@ -204,61 +404,129 @@ Director of Marketing
 
 Director of E-Commerce
 
-### I noticed that Verrex is searching for a Director of E-Commerce and wanted to share one of my candidates with you.  He’s a dynamic, hands-on leader and creative solutions provider with expertise in strategic marketing, brand management, marketing communications and public relations.  Strong experience planning & execution of DTC (and B2B) e-commerce efforts, lead web content & production for multiple sites, online direct consumer acquisition, A/B testing, new product launches and end-to-end execution of online marketing strategies.  Demonstrated ability to lead complex projects from inception through execution. Track record of success developing integrated marketing initiatives that drive engagement and revenue, build organizational market value and deliver measurable results. Holds a MBA from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a dynamic, hands-on leader and creative solutions provider with expertise in strategic marketing, brand management, marketing communications and public relations in the [Industry] industry].  Strong experience planning & execution of DTC (and B2B) e-commerce efforts, lead web content & production for multiple sites, online direct consumer acquisition, A/B testing, new product launches and end-to-end execution of online marketing strategies.  Demonstrated ability to lead complex projects from inception through execution. Track record of success developing integrated marketing initiatives that drive engagement and revenue, build organizational market value and deliver measurable results. Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Digital Marketing Manager
 
-### I noticed that Verrex is searching for a Digital Marketing Manager and wanted to share one of my candidates with you.  He’s a results-proven marketing manager with extensive digital marketing and e-commerc experience.  Proven record of lead generation and brand awareness through web initiatives and social media. Increased traffic to current employer’s website by 58% YOY via website upgrades and digital campaigns. Successfully established a social customer service process involving all major departments.  Holds a MBA from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a results-proven marketing manager with extensive digital marketing and e-commerce experience in the [Industry] industry.  Proven record of lead generation and brand awareness through web initiatives and social media. Increased traffic to current employer’s website by 58% YOY via website upgrades and digital campaigns. Successfully established a social customer service process involving all major departments.  Holds a BS in Marketing from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Product Marketing Manager
 
-### I noticed that SharkNinja is searching for a Product Marketing Manager and wanted to share one of my candidates with you.  He’s a marketing strategist with proven success acquiring product requirements that meets customer needs and driving competitive advantage across regions, verticals and product lines. Solid career consists of 15+ years in the design and execution of integrated campaigns that expand market share and catapult revenue performance. Energetic individual with a passion for innovation and personal commitment to producing measurable, sustainable results.  Holds a MBA from Northwestern University.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a marketing strategist with proven success acquiring product requirements that meets customer needs and driving competitive advantage across regions, verticals and product lines. Solid career consists of [Years] years in the design and execution of integrated campaigns that expand market share and catapult revenue performance focused in the [Industry] industry. Energetic individual with a passion for innovation and personal commitment to producing measurable, sustainable results.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Channel Marketing Manager
 
-### I noticed that SharkNinja is searching for a Channel Marketing Manager and wanted to share one of my candidates with you.  He’s a creative marketing, branding & product development manager with broad experience conceiving, developing, and implementing innovative solutions that maximize revenue, improve brand awareness, and improve customer the experience for organizations to achieve key performance objectives. Skilled cross-channel leader who leverages acute market sense and analytical acumen to identify and capitalize on key points to develop effective brand-building initiatives across channels and target segments. Effective influencer and communicator who generates consensus and empowers top performing teams to achieve business goals with per target metrics.  Holds a MBA from Northwestern University.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a creative marketing, branding & product development manager with focused experience in the [Industry] industry conceiving, developing, and implementing innovative solutions that maximize revenue, improve brand awareness, and improve customer the experience for organizations to achieve key performance objectives. Skilled cross-channel leader who leverages acute market sense and analytical acumen to identify and capitalize on key points to develop effective brand-building initiatives across channels and target segments. Effective influencer and communicator who generates consensus and empowers top performing teams to achieve business goals with per target metrics.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Event Marketing
 
-### I noticed that Analogic is searching for a Marketing Events and Content Manager and wanted to share one of my candidates with you.  He's an innovative and versatile marketing professional with expertise in delivering high quality, results-focused events and marketing campaigns. Extensive business to business (B2B) background with strengths in project management, meeting and events management and development of cross-sell strategic plans through client facing opportunities. Consistently recognized for exceptional work ethic, ability to handle multiple (and varied) assignments at once, and dedication to being a valued member of the team with an ability to multitask as well as handle different responsibilities from project management to analytics. Hard-working and completely reliable to meet deadlines and achieve goals as presented. Experienced in a range of areas including: sponsorships, sales, strategy, data analytics, full scale event production, and database management. Graduated with honors from Boston College.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He's an innovative and versatile marketing professional with expertise in delivering high quality, results-focused events and marketing campaigns. Extensive [Industry] industry background with strengths in project management, meeting and events management and development of cross-sell strategic plans through client facing opportunities. Consistently recognized for exceptional work ethic, ability to handle multiple (and varied) assignments at once, and dedication to being a valued member of the team with an ability to multitask as well as handle different responsibilities from project management to analytics. Hard-working and completely reliable to meet deadlines and achieve goals as presented. Experienced in a range of areas including: sponsorships, sales, strategy, data analytics, full scale event production, and database management. Graduated with honors from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Brand Marketing Manager
 
-### I noticed that SharkNinja is searching for a Brand Manager and wanted to share one of my candidates with you.  He’s a marketing professional with solid experience in designing and executing insight-based brand strategies and programs, launching new products, and managing cross-functional teams.  Proven record of developing successful projects that deliver sales and equity growth in competitive environments. Strong communication skills with a reputation for instilling enthusiasm in others and leading teams to achieve shared goals.  Energetic individual with a passion for innovation and personal commitment to producing measurable, sustainable results.  Holds a MBA from Northwestern University.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a marketing professional with solid [Industry] industry experience in the designing and executing of insight-based brand strategies and programs, launching new products, and managing cross-functional teams.  Proven record of developing successful projects that deliver sales and equity growth in competitive environments. Strong communication skills with a reputation for instilling enthusiasm in others and leading teams to achieve shared goals.  Energetic individual with a passion for innovation and personal commitment to producing measurable, sustainable results.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
 
 
 
-Brand Marketing Manager (w/Infomercial)
 
-### I noticed that SharkNinja is searching for an Infomercial Marketing Manager and wanted to share one of my candidates with you.  He’s a creative brand management professional with 10 years’ experience implementing the full range of consumer marketing, from establishing a product's name, design and packaging, direct TV promotion, and box store positioning. Effective problem solver, with proven multi-tasking project and account management aptitude. Highly skilled developing and managing cross-functional teams. Instrumental in increasing business 45% from previous year through strategic marketing campaigns and product development.  Holds a MBA from Northwestern University.  Would you be interested in seeing his resume? ***
+
+
+
+Brand Marketing Manager (B2C)
+
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a creative brand management professional with [Years] years’ [Industry] industry experience implementing the full range of consumer marketing, from establishing a product's name, design and packaging, direct TV promotion, and box store positioning. Effective problem solver, with proven multi-tasking project and account management aptitude. Highly skilled developing and managing cross-functional teams. Instrumental in increasing business 45% from previous year through strategic marketing campaigns and product development.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Communications Manager
 
-### I noticed that SharkNinja is searching for a Communications Manager and wanted to share one of my candidates with you.  He’s a Senior Communications Professional with extensive experience in strategic and tactical use of employee communications, media relations and integrated marketing communications to support business strategies. Broad and diverse experience dealing with technical issues and communicating technology topics to customer and employee audiences. Highly skilled at working closely with others within a collaborative framework to support business objectives.  Holds a MBA from Northwestern University.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a Senior Communications Professional with extensive experience in the [Industry] industry with the strategic and tactical use of employee communications, media relations and integrated marketing communications to support business strategies. Broad and diverse experience dealing with technical issues and communicating technology topics to customer and employee audiences. Highly skilled at working closely with others within a collaborative framework to support business objectives.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 VP of Marketing
 
-### I noticed that SharkNinja is searching for a Vice President of Marketing and wanted to share one of my candidates with you.  He’s a Senior Marketing Executive with 25+ years of experience, successful at establishing the vision and strategies necessary to grow companies through creative and results-oriented marketing and internal and external communications initiatives.  Expert at driving results through building high-performing teams, creating and leveraging relationships intra-company and within industries served and communities, through elected officials and strategic partnerships with other companies. A collaborator with strong P&L and proven leadership expertise.  Holds a MBA from Northwestern University.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a Senior Marketing Executive with [Years] years of [Industry] industry experience, successful at establishing the vision and strategies necessary to grow companies through creative and results-oriented marketing and internal and external communications initiatives.  Expert at driving results through building high-performing teams, creating and leveraging relationships intra-company and within industries served and communities, through elected officials and strategic partnerships with other companies. A collaborator with strong P&L and proven leadership expertise.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Accounting Manager
 
-### I noticed that Verrex is searching for an Accounting Manager and wanted to share one of my candidates with you.  He’s a CPA with 15 years’ experience in both public and private accounting.  Proven ability to lead projects designed to achieve maximum financial performance.  Experience working in wide range of industries including financial services, government, and manufacturing.  Extensive knowledge in areas of financial reporting, business process transformation, performance measurement, Generally Accepted Accounting Principles (GAAP), internal controls, and Sarbanes-Oxley 404 reporting and compliance.  Holds a MBA from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a CPA with [Years] years’ experience in both public BIG4 and [Industry] accounting.  Proven ability to lead projects designed to achieve maximum financial performance.  Experience working in wide range of industries including financial services, government, and manufacturing.  Extensive knowledge in areas of financial reporting, business process transformation, performance measurement, Generally Accepted Accounting Principles (GAAP), internal controls, and Sarbanes-Oxley 404 reporting and compliance.  Holds a BS in Accounting from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -272,73 +540,151 @@ Accounting Manager
 
 Staff Accountant
 
-### I noticed that Verrex is searching for a Staff Accountant and wanted to share one of my candidates with you.  He’s a CPA with 3+ years of progressive accounting experience with a strong background in preparing month-end accrued journal entries, reconciliation of balance sheet accounts, preparation of intercompany journal entries, and analysis of general ledger accounts to ensure compliance with GAAP.  Skilled at pinpointing discrepancies and errors that will ensure accurate P&L reporting.  Self-motivated, able to implement decisions and effectively prioritize to achieve both immediate, long-term goals with excellent interpersonal skills.  Holds a BS in Accounting from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a CPA with [Years] years of progressive accounting experience in [Industry] with a strong background in preparing month-end accrued journal entries, reconciliation of balance sheet accounts, preparation of intercompany journal entries, and analysis of general ledger accounts to ensure compliance with GAAP.  Skilled at pinpointing discrepancies and errors that will ensure accurate P&L reporting.  Self-motivated, able to implement decisions and effectively prioritize to achieve both immediate, long-term goals with excellent interpersonal skills.  Holds a BS in Accounting from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Senior Accountant
 
-### I noticed that Verrex is searching for a Senior Accountant and wanted to share one of my candidates with you.  He’s a CPA with 5+ years of progressive accounting experience with a strong background in preparing month-end accrued journal entries, reconciliation of balance sheet accounts, and analysis of general ledger accounts to ensure compliance with GAAP. Skilled at pinpointing discrepancies and errors that will ensure accurate P&L reporting.  Experience developing reports that increased efficiency of the accounting department while maintaining SOX and GAAP compliance.  Self-motivated, able to implement decisions and effectively prioritize to achieve both immediate, long-term goals with excellent interpersonal skills.  Holds a BS in Accounting from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a CPA with [Years] years of progressive accounting experience in [Industry] with a strong background in preparing month-end accrued journal entries, reconciliation of balance sheet accounts, and analysis of general ledger accounts to ensure compliance with GAAP. Skilled at pinpointing discrepancies and errors that will ensure accurate P&L reporting.  Experience developing reports that increased efficiency of the accounting department while maintaining SOX and GAAP compliance.  Self-motivated, able to implement decisions and effectively prioritize to achieve both immediate, long-term goals with excellent interpersonal skills.  Holds a BS in Accounting from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Senior Financial Analyst
 
-### I noticed that Verrex is searching for a Senior Financial Analyst and wanted to share one of my candidates with you.  He’s a performance-driven and results-oriented Finance Professional with 5+ years’ corporate finance and 5+ years Big4 experience. Possess expertise in Project/Team Leading, Budgeting, Forecasting, 3-year Strategic Planning, Corporate Valuation, Finance Modeling, Trend Analysis, Ratios Analysis, US GAAP, IFRS, SOX, SEC 10-K/Q reporting. Self-motivated, able to implement decisions and effectively prioritize to achieve both immediate, long-term goals with excellent interpersonal skills.  Holds a BS in Accounting from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a performance-driven and results-oriented Finance Professional with [Years] years’ [Industry] and Big4 experience. Possess expertise in Project/Team Leading, Budgeting, Forecasting, Strategic Planning, Corporate Valuation, Finance Modeling, Trend Analysis, Ratios Analysis, US GAAP, IFRS, SOX, SEC 10-K/Q reporting. Self-motivated, able to implement decisions and effectively prioritize to achieve both immediate, long-term goals with excellent interpersonal skills.  Holds a BS in Accounting from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Portfolio Accountant (Real Estate)
 
-### I noticed that Verrex is searching for a Senior Portfolio Accountant and wanted to share one of my candidates with you.  He’s a CPA with 5+ years of progressive accounting experience in Real Estate Portfolio Accounting.  Strong experience conducting reconciliations, distributions, cash balance and market value reporting for multiple portfolio profiles on a regular basis.  Skilled at pinpointing discrepancies and errors that will ensure accurate reporting.  Experience developing reports that increased the efficiency of the accounting department while maintaining SOX and GAAP compliance.  Self-motivated, able to implement decisions and effectively prioritize to achieve both immediate, long-term goals with excellent interpersonal skills.  Holds a BS in Accounting from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a CPA with [Years] years of progressive accounting experience in Real Estate Portfolio Accounting.  Strong experience conducting reconciliations, distributions, cash balance and market value reporting for multiple portfolio profiles on a regular basis.  Skilled at pinpointing discrepancies and errors that will ensure accurate reporting.  Experience developing reports that increased the efficiency of the accounting department while maintaining SOX and GAAP compliance.  Self-motivated, able to implement decisions and effectively prioritize to achieve both immediate, long-term goals with excellent interpersonal skills.  Holds a BS in Accounting from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Controller
 
-### I noticed that Verrex is searching for a Controller and wanted to share one of my candidates with you.  He’s a strategic and forward thinking CPA combining a strong mix of financial and accounting management and tax planning with an exceptionally rich and versatile skill set in accounting, controls, and operational improvement. Possesses 20+ years of experience building and maintaining top performing finance and accounting processes contributing to significant enterprise wide enhancement. Delivers immediate contributions to companies by overcoming protracted financial barriers with innovative and impactful solutions. Utilizes outstanding team leadership skills and superior business acumen to align all financial activities with long term goals.  Holds a MBA from NYU and BS in Accounting from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a strategic and forward thinking CPA combining a strong mix of financial and accounting management and tax planning with an exceptionally rich and versatile skill set in accounting, controls, and operational improvement. Possesses [Years] years of experience in the [Industry] industry building and maintaining top performing finance and accounting processes contributing to significant enterprise wide enhancement. Delivers immediate contributions to companies by overcoming protracted financial barriers with innovative and impactful solutions. Utilizes outstanding team leadership skills and superior business acumen to align all financial activities with long term goals.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 CFO
 
-### I noticed that Verrex is searching for a Chief Financial Officer and wanted to share one of my candidates with you.  He’s an experienced financial management executive with a track record of accomplishment in companies of diverse size and market orientation.  Possesses 20+ years of experience building and maintaining top performing finance and accounting processes contributing to significant enterprise wide enhancement.   Demonstrated ability to manage production and overhead costs, restructure operations, establish financial and operational systems, policies and controls, motivate teams, and work with shareholders and financial institutions.  Natural leader with hands-on style who inspires trust.  Holds a MBA from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s an experienced financial management executive with a track record of accomplishment in the [Industry] industry.  Possesses [Years] years of experience building and maintaining top performing finance and accounting processes contributing to significant enterprise wide enhancement.   Demonstrated ability to manage production and overhead costs, restructure operations, establish financial and operational systems, policies and controls, motivate teams, and work with shareholders and financial institutions.  Natural leader with hands-on style who inspires trust.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Cost Accountant
 
-### I noticed that Verrex is searching for a Cost Accountant and wanted to share one of my candidates with you.  He’s a results driven accountant with extensive finance, administration, and operations experience.  Demonstrated ability to critically evaluate and respond to rapidly evolving financial environments.  Has experience designing and maintaining cost accounting reports for 150+ cost centers.  Recognized for superior problem solving skills, able to think critically and find creative solutions to solve complex issues.  Holds a BS in Accounting from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a results driven accountant with extensive [Industry] industry experience.  Demonstrated ability to critically evaluate and respond to rapidly evolving financial environments.  Has experience designing and maintaining cost accounting reports for 150+ cost centers.  Recognized for superior problem solving skills, able to think critically and find creative solutions to solve complex issues.  Holds a BS in Accounting from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Director of Contracts
 
-### I noticed that Verrex is searching for a Director of Contracts and wanted to share one of my candidates with you.  He has 7+ years of experience in domestic contracts management, administration, proposals, negotiation and closures to include international contracting, comprehensive “hands on” experience in managing professional contracts staff and executing all contract types including sourcing, ITAR and DOC, and export law functions.  Excellent communication skills in both verbal and written form regarding letters, Teaming Agreements, MOU’s, TAA’s, Licensing Agreements, NDA’s, Distributor Agreements, contracts, and subcontracts.  Outstanding analytical skills in problem evaluation and conflict/issue resolution.  Holds a MBA from Boston University.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of [Industry] industry experience in domestic contracts management, administration, proposals, negotiation and closures to include international contracting, comprehensive “hands on” experience in managing professional contracts staff and executing all contract types including sourcing, ITAR and DOC, and export law functions.  Excellent communication skills in both verbal and written form regarding letters, Teaming Agreements, MOU’s, TAA’s, Licensing Agreements, NDA’s, Distributor Agreements, contracts, and subcontracts.  Outstanding analytical skills in problem evaluation and conflict/issue resolution.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Tax Accountant
 
-### I noticed that Verrex is searching for a Tax Accountant and wanted to share one of my candidates with you.  He’s a proven financial accounting and tax professional with experience in multiple industries focused on providing integral accounting and tax services for management as it relates to internal reporting, operations improvements, compliance or other areas of business.  Results-oriented, decisive self-starting leader with a passion for driving, executing and delivering on challenging assignments.  Recognized  for  superior  problem  solving  skills,  able  to  think  critically  and find creative solutions  to  solve  complex  issues.  Holds a BS in Accounting from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a proven financial accounting and tax professional with strong experience in the [Industry] industry focused on providing integral accounting and tax services for management as it relates to internal reporting, operations improvements, compliance or other areas of business.  Results-oriented, decisive self-starting leader with a passion for driving, executing and delivering on challenging assignments.  Recognized  for  superior  problem  solving  skills,  able  to  think  critically  and find creative solutions  to  solve  complex  issues.  Holds a BS in Accounting from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Director of Compensation
 
-### I noticed that Verrex is searching for a Director of Compensation and wanted to share one of my candidates with you.  He’s a total rewards professional with 16 years of diverse experience in domestic and international cash compensation, sales incentive plan design, and employee benefits administration with concentrations in total rewards, executive compensation, executive benefits, public disclosure, employee relations, and HRIS administration, policy/procedure interpretation including legal/regulatory compliance.  A critical thinker, accomplished, hands-on leader, team oriented with proven abilities to identify objectives and deliver effective solutions maturing to tangible end results.  Very energetic, excellent interpersonal skills, team player and fast learner.  Holds a PHR Certification and a BS in Psychology from Boston College.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a total rewards professional with [Years] years of diverse experience in [Industry] industry with cash compensation, sales incentive plan design, and employee benefits administration with concentrations in total rewards, executive compensation, executive benefits, public disclosure, employee relations, and HRIS administration, policy/procedure interpretation including legal/regulatory compliance.  A critical thinker, accomplished, hands-on leader, team oriented with proven abilities to identify objectives and deliver effective solutions maturing to tangible end results.  Very energetic, excellent interpersonal skills, team player and fast learner.  Holds a PHR Certification and a BS in Psychology from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Human Resource Compliance Administrator
 
-### I noticed that Verrex is searching for a Human Resource Compliance Administrator and wanted to share one of my candidates with you.  He’s a strategic Human Resources Professional with 10+ years of experience and a passion to innovate and drive for solutions.  Significant experience in Human Resource compliance processes, systems, policies, and procedures.  Extensive background in immigration compliance along with a comfort in assisting with legal matters, attending mediations and working with state and federal agencies.  Very energetic, excellent interpersonal skills, team player and fast learner.  Holds a PHR Certification and a BS in Psychology from Boston College.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a strategic Human Resources Professional with [Years] years of experience in the [Industry] industry and a passion to innovate and drive for solutions.  Significant experience in Human Resource compliance processes, systems, policies, and procedures.  Extensive background in immigration compliance along with a comfort in assisting with legal matters, attending mediations and working with state and federal agencies.  Very energetic, excellent interpersonal skills, team player and fast learner.  Holds a PHR Certification and a BS in Psychology from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Senior Benefits Manager
 
-### I noticed that Verrex is searching for a Senior Benefits Manager and wanted to share one of my candidates with you.  He’s a human resource professional with 18 years of benefits administration experience. Proven ability to combine analytical and research strengths with effective collaboration at all levels of management to reduce benefit expenses while cultivating a culture of healthcare consumerism focused on promoting wellness. Expertise includes directing an integrated compensation and benefits program to assure cost effective and competitive programs are in place that are internally equitable and externally competitive. Skilled in Health, Defined Benefit and Defined Contribution Plan design aimed at keeping organizations competitive by reducing company long-term liabilities while attracting and retaining the best employees. Very energetic, excellent interpersonal skills, team player and fast learner.  Holds a PHR Certification and a BS in Psychology from Boston College.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a human resource professional with [Years] years of [Industry] industry experience. Proven ability to combine analytical and research strengths with effective collaboration at all levels of management to reduce benefit expenses while cultivating a culture of healthcare consumerism focused on promoting wellness. Expertise includes directing an integrated compensation and benefits program to assure cost effective and competitive programs are in place that are internally equitable and externally competitive. Skilled in Health, Defined Benefit and Defined Contribution Plan design aimed at keeping organizations competitive by reducing company long-term liabilities while attracting and retaining the best employees. Very energetic, excellent interpersonal skills, team player and fast learner.  Holds a PHR Certification and a BS in Psychology from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -350,193 +696,42 @@ Senior Benefits Manager
 
 HR Manager
 
-### I noticed that Verrex is searching for a HR Manager and wanted to share one of my candidates with you.  He has more than fifteen years of experience creating, implementing, and administering Talent Management/Retention strategies, organizational development, Merit Planning, Compensation, Benefits, and Wellness programs while ensuring legal and regulatory compliance.  Proven HR Business Partner supporting executive leadership and business strategies to achieve organizational growth and improve productivity.   Very energetic, excellent interpersonal skills, team player and fast learner.  Holds a PHR Certification and a BS in Psychology from Boston College.  Would you be interested in seeing his resume? ***
+
+
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of [Industry] industry experience creating, implementing, and administering Talent Management/Retention strategies, organizational development, Merit Planning, Compensation, Benefits, and Wellness programs while ensuring legal and regulatory compliance.  Proven HR Business Partner supporting executive leadership and business strategies to achieve organizational growth and improve productivity.   Very energetic, excellent interpersonal skills, team player and fast learner.  Holds a PHR Certification and a BS in Psychology from [COLLEGE].  Would you be interested in seeing his resume? ***
+
+
+
+
 
 
 
 Director of HR
 
-### I noticed that Verrex is searching for a Director of HR and wanted to share one of my candidates with you.  He has twenty plus years of diverse business experience providing guidance to a broad range of functional business areas, including sales, manufacturing, fulfillment, information technology, engineering, marketing, product development, research, investment operations, and corporate administration functions.  Proven HR Business Partner supporting executive leadership and business strategies to achieve organizational growth and improve productivity.  Extensive experience creating, implementing, and administering Talent Management/Retention strategies, and organizational development programs while ensuring legal and regulatory compliance.  Critical thinker with demonstrated ability to challenge the status quo and solve problems creatively.  Holds a SPHR Certification and BS in Business from Boston College.  Would you be interested in seeing his resume? ***
 
 
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He has [Years] years of [Industry] industry experience providing guidance to a broad range of functional business areas, including sales, manufacturing, fulfillment, information technology, engineering, marketing, product development, research, investment operations, and corporate administration functions.  Proven HR Business Partner supporting executive leadership and business strategies to achieve organizational growth and improve productivity.  Extensive experience creating, implementing, and administering Talent Management/Retention strategies, and organizational development programs while ensuring legal and regulatory compliance.  Critical thinker with demonstrated ability to challenge the status quo and solve problems creatively.  Holds a PHR Certification and BS in Business from [COLLEGE].  Would you be interested in seeing his resume? ***
 
-Talent Acquisition/HR Recruiter
 
-### I noticed that Verrex is searching for a Corporate Recruiter and wanted to share one of my candidates with you.  He’s a recruiting professional with over eight years' experience in recruiting, staffing, and human resources.  Extensive experience in talent acquisition, salary negotiations, and client management.  Effectively facilitates all aspects of recruitment processes from interview to orientation, with proven record of identifying and placing hundreds of candidates in executive, permanent, contract, and temporary positions.  Talent for creative sourcing strategies, social media, and process improvement.  Holds a BS in Psychology from Boston College.  Would you be interested in seeing his resume? ***
 
 
 
-Director of Talent Acquisition/Recruiting
 
-### I noticed that Verrex is searching for a Director of Talent Acquisition and wanted to share one of my candidates with you.  He’s a Talent Acquisition leader successful in partnering with Senior Business executives to design, develop and implement best in class programs in recruitment and selection,  workforce optimization, talent development and vendor management.  10+ years of experience attracting and retaining top talent for organizations ranging from startups to multi-billion dollar corporations.  Consistently reduces costs by developing and implementing innovative sourcing and recruitment strategies.  Dynamic communicator and negotiator, with demonstrated success in building productive relationships with hiring managers, vendors, and candidates.  Holds a PHR Certification and a BA in Psychology from Boston College.  Would you be interested in seeing his resume? ***
 
 
 
-Director of Acquisitions (and Financial Analysis)
 
-### I noticed that Verrex is searching for a Director of Acquisitions and wanted to share one of my candidates with you.  He’s a versatile team player with a comprehensive investor-facing background in deal sourcing, financial analysis, underwriting, and asset management of commercial real estate for private and institutional equity investors. Strong experience in market trending, due diligence, financing, sourcing and acquisitions, redevelopment, asset management, strategic leasing and operations, work-outs, dispositions, and investor relations.  He’s a well-rounded, versatile, highly creative professional with an excellent work ethic, attention to detail and excellent communication skills.  Holds a MBA from Emory.  Would you be interested in seeing his resume? ***
 
 
 
-Director of Legal
+Director of Acquisitions (Commercial Real Estate)
 
-### I noticed that Verrex is searching for a Director of Legal and wanted to share one of my candidates with you.  He has significant experience as a corporate generalist, commercial transactions attorney, and management leader responsible for teams as large as 15 attorneys. Proven acute business acumen, ability to influence outcomes and experience managing a large volume of legal matters across a diverse portfolio of businesses. Recognized for forward-thinking and sophisticated legal & commercial strategy guidance to internal clients. Possess fiscal and human resources management skills necessary to lead business and legal affairs. Holds a CPA and graduated at the top of his Law class from Boston College.  Would you be interested in seeing his resume? ***
 
 
+### I noticed that [Company] is searching for [a/an] [Subject] and wanted to share one of my candidates with you.  He’s a versatile team player with a comprehensive investor-facing background in deal sourcing, financial analysis, underwriting, and asset management of commercial real estate for private and institutional equity investors. Strong experience in market trending, due diligence, financing, sourcing and acquisitions, redevelopment, asset management, strategic leasing and operations, work-outs, dispositions, and investor relations.  He’s a well-rounded, versatile, highly creative professional with an excellent work ethic, attention to detail and excellent communication skills.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume? ***
 
-Sr. General Counsel
 
-### I noticed that Verrex is searching for a General Counsel and wanted to share one of my candidates with you.  He has 20+ years of experience as a corporate generalist and commercial transactions attorney in private practice and in-house positions (15+ years total in-house counsel experience) for middle-market and private equity backed companies.  He’s a well-rounded, versatile, highly creative attorney with an excellent work ethic, attention to detail and excellent communication skills.  Holds a CPA and graduated at the top of his Law class from Boston College.  Would you be interested in seeing his resume? ***
 
-
-
-General Counsel
-
-### I noticed that Verrex is searching for a General Counsel and wanted to share one of my candidates with you.  He has 7+ years of experience as a corporate generalist and commercial transactions attorney.  Experience includes real estate, estate planning, employment law, extensive tax representation, collection litigation and successful asset execution.  He’s a well-rounded, versatile, highly creative attorney with an excellent work ethic, attention to detail and excellent communication skills.  Holds a CPA and graduated at the top of his Law class from Boston College.  Would you be interested in seeing his resume? ***
-
-
-
-General Counsel - Intellectual Property
-
-### I noticed that Ingersoll Rand is searching for a Sr. Corporate Counsel with Intellectual Property experience and wanted to share one of my candidates with you.  He’s a solutions-focused, diligent attorney with a sharp business acumen and successful track record of providing strategic business legal advice and support, in both the public and private sectors.  Experience with planned and coordinated legal initiatives utilizing intellectual property rights in compliance with business goals and objectives.  Conducted in-depth legal analysis, and applied findings toward negotiating strategic agreements and settlements with Fortune 500 corporations.  Collaborated with business clients to design and implement licensing programs to leverage company business value and impact in the marketplace.  Holds a CPA and graduated at the top of his Law class from Duke.  Would you be interested in seeing his resume? ***
-
-
-
-General Counsel - Technology
-
-### I noticed that Verrex is searching for a Technology Attorney and wanted to share one of my candidates with you.  He has 7+ years of experience providing legal advice and representation, risk management, and problem solving to companies on technology, intellectual property, data privacy, data security, and related legal and business issues.  Lead policy and program development efforts relating to information and data management, privacy, and security.  Managed worldwide protection and enforcement of over 90 trademarks and offensive/defensive of intellectual property litigation.  He’s a well-rounded, versatile, highly creative attorney with an excellent work ethic, attention to detail and excellent communication skills.  Graduated at the top of his Law class from Boston College.  Would you be interested in seeing his resume? ***
-
-
-
-Jr. Attorney
-
-### I noticed that Verrex is searching for a contract attorney and wanted to share one of my candidates with you.  He has 3+ years of experience as a business generalist and commercial transactions attorney.  Experience includes high volume contract review, preparation, and negotiation, regulatory compliance, real estate, employment law, collection litigation and successful asset execution.  He’s a well-rounded, versatile, highly creative attorney with an excellent work ethic, attention to detail and excellent communication skills.  Graduated at the top of his Law class from Boston College.  Would you be interested in seeing his resume? ***
-
-
-
-
-
-Registered Nurse
-
-### I noticed that Verrex is searching for a Registered Nurse and wanted to share one of my candidates with you.  She’s a motivated, personable nursing professional with 5+ years’ experience in various nursing settings.  Strong talent for quickly mastering new technologies, diplomatic and tactful with clients, and accustomed to handling sensitive client records. Demonstrated history of producing positive outcomes for clients utilizing the nursing process and all aspects of the health care team.  Flexible and versatile, able to maintain a sense of humor under pressure. Poised and competent with demonstrated ability to easily transcend cultural differences and thrives in deadline-driven environments with client safety as the most important goal. Would you be interested in seeing her resume? ***
-
-
-
-
-
-
-
-Registered Nurse Anesthetist
-
-### I noticed that Verrex is searching for a Registered Nurse Anesthetist and wanted to share one of my candidates with you.  She’s an exceptionally-qualified and results-oriented Certified Registered Nurse Anesthetist with 32 years of nursing experience, and 23 years as a CRNA. Skilled in performing various anesthetics in all interdisciplinary settings with the ability to evaluate and implement the best options to meet patient-care needs. Strong team player possessing polished communication, verbal & written skills.  Experienced anesthesia provider with vast knowledge of complexities facing the surgical candidate/team. Outstanding team player, able to perform tasks in a multitude of anesthetic settings. Exceptionally well organized with a track record that demonstrates self-motivation, creativity, and initiative to achieve both personal and team goals.  Would you be interested in seeing her resume? ***
-
-Pharmacist
-
-### I noticed that Verrex is searching for a Pharmacist and wanted to share one of my candidates with you.  He’s a licensed Pharmacist with 5+ years of experience and a track record of providing excellent customer service in high-volume pharmacy, serving 200-300 patients per day, with demonstrated versatility in adapting to ever-increasing complexity in the healthcare industry.  Strong understanding of medical information use in a regulatory setting, ability to evaluate medical literature and perform drug reviews for insurance plans.  Committed to providing quality pharmaceutical care as an essential link in disease management.  Would you be interested in seeing his resume? ***
-
-
-
-Managing Pharmacist
-
-### I noticed that Verrex is searching for a Managing Pharmacist and wanted to share one of my candidates with you.  He’s a licensed Pharmacist with 12+ years of experience and a track record of providing excellent customer service with demonstrated versatility in adapting to ever-increasing complexity in the healthcare industry.  Extensive hospital pharmacy management experience supervised teams as large as 12 pharmacists and 24 Technicians supporting the operations of 350+ Bed Hospitals.  Responsible for Developing Pharmacy Guidelines in Neonatology and Pediatric Settings, as well as, providing educational experience to Residents, Nurses and other Healthcare Personnel.  Committed to providing quality pharmaceutical care as an essential link in disease management.  Would you be interested in seeing his resume? ***
-
-
-
-Psychologist
-
-### I noticed that Verrex is searching for a Psychologist and wanted to share one of my candidates with you.
-
-He’s a highly energetic, organized, multi-licensed professional with extensive clinical and executive management experience.  10+ years of experience in counseling, psychotherapy and brief solution focus treatment - outpatient, inpatient, residential, partial day, outreach, and crisis services.  Strong professional competency in the administration and the interpretation of clinical assessment tools including objective & projective personality techniques, intellectual assessments, and behavioral profiles.  Developed and administered programs for both commercial and clinical applications.  Holds a Ph.D. in Psychology from Boston College. Would you be interested in seeing his resume? ***
-
-
-
-Child Psychologist
-
-### I noticed that Verrex is searching for a Child Psychologist and wanted to share one of my candidates with you.  He’s a highly energetic, organized, multi-licensed professional with extensive experience providing services to children with developmental, genetic, neuromotor, emotional and behavioral disorders.  Strong background in early intervention, assessment and educational intervention for children and adolescents.  Developed and administered programs for patients with a variety of conditions including Autism and Developmental delays.  Holds a Ph.D. in Psychology from Boston College. Would you be interested in seeing his resume? ***
-
-
-
-Director of Psychology
-
-### I noticed that Verrex is searching for a Director of Psychology and wanted to share one of my candidates with you.  He’s an experienced correctional mental health supervisor with a background in clinical psychology, specializing in a variety of psychological domains including program development; treatment program oversight; contract compliance; supervision for licensure; consultations to courts and other administrative bodies; proficiency in evaluating, assessing, and appropriately treating clinical disorders in order to improve standards of counseling practice. A competent professional who demonstrates the ability to assist in other duties as needed; including program sponsorship, facility auditing and training administration. A valued team member and leader of a treatment team who thrives in challenging working environments.  Holds a Ph.D. in Psychology from Duke. Would you be interested in seeing his resume? ***
-
-
-
-Quality Engineer
-
-### I noticed that Verrex is searching for a Quality Engineer and wanted to share one of my candidates with you.  He’s an accomplished Quality Engineer with 10+ years of experience. Excellent analytical and problem solving skills resulting in root cause determination and implementation of viable corrective action.  Leverages an extensive transferable skill set that enables integration of technology, process and business to drive the highest levels of performance, quality and efficiency across tool sets, procedures and processes. Proven ability to effectively communicate ideas and successes across all organizational levels.  Holds a BS in Mechanical Engineering from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
-
-
-
-Process Engineer
-
-### I noticed that Verrex is searching for a Process Engineer and wanted to share one of my candidates with you.  He’s an accomplished engineer with 20+ years of experience and a solid knowledge in process design.  Leverages an extensive transferable skill set that enables integration of technology, process and business to drive the highest levels of performance, quality and efficiency across tool sets, procedures and processes. Proven ability to effectively communicate ideas and successes across all organizational levels.  Holds a BS in Mechanical Engineering from the University of Texas at Austin.  Would you be interested in seeing his resume? ***
-
-
-
-2nd Accounting
-
-### I’m working with another candidate who may be of interest.  He has over 5 years of experience in accounting, financial statements preparation, daily cash transaction monitoring, annual budgets and recording financial activity.  Excellent computer skills with strong experience in various ERP systems, MS Word and Excel.  He’s highly creative, an intuitive problem solver, personable and articulate.  Holds a MS in Accounting.  Would you be interested in seeing his resume? ***
-
-
-
-2nd Developer
-
-### I’m working with another candidate who may be of interest.  He’s a detail oriented self-starter and scientific thinker with full stack development experience who loves to solve problems.  A quick learner who values quality and practicability while striving to exceed expectations.  Excellent verbal and written communication skills, team player and willing to listen.  Graduated with honors with a BS in Computer Science.  Would you be interested in seeing his resume? ***
-
-
-
-2nd Marketing
-
-### I’m working with another candidate who may be of interest.  He’s a strategic marketing specialist with a proven track record in achieving sales and profit targets.  Extensive experience managing the product development cycle from market analysis, opportunity identification, forecasting and concept development to new product/indication launch and segment migration.  A quick learner who values quality and practicability while striving to exceed expectations.  Excellent verbal and written communication skills, team player and willing to listen.  Graduated with honors with a BS in Marketing Management.  Would you be interested in seeing his resume? ***
-
-
-
-General Developer
-
-### I’ve noticed that ABOL Software has searched for Software Developers in the past and wanted to share an exceptional candidate I’m currently working with.  He has 5+ years of experience with emphasis on global reusable frameworks, distributed object oriented systems, e-commerce, web technologies, web services, multi-tier and client-server applications. Great communication skills and works well in a team environment.  Holds a BS in Computer Science from Emory University.  Would you be interested in seeing his resume? ***
-
-
-
-General Infrastructure
-
-### I’ve noticed that ABOL Software has searched for Infrastructure Engineers in the past and wanted to share an exceptional candidate I’m currently working with.  He has 8+ years of experience providing architectural design, system management, capacity planning, IT infrastructure designs optimizing systems and minimizing redundancy.  Proven ability to rapidly learn, implement, and improve all aspects of multiple and very complex projects, and deliver on or ahead of schedule and within budget.  Holds a BBA in Information Systems from Emory University.  Would you be interested in seeing his resume? ***
-
-
-
-General Sales
-
-### I’ve noticed that ABOL Software has searched for Sales Executives in the past and wanted to share an exceptional candidate I’m currently working with. He has 7+ years of experience with major account responsibilities including the development of an IT customer base consisting of small to medium business users, corporate entities, state & local government, and nationwide accounts.  Customer acquisition background is based on cold calling and prospecting new business accounts.  Excellent communication skills and account management.  Holds a BBA in Information Systems from Emory University.  Would you be interested in seeing his resume? ***
-
-
-
-General Pre-Sales
-
-### I’ve noticed that ABOL Software has searched for Pre-Sale Engineers in the past and wanted to share an exceptional candidate I’m currently working with.  He has 10+ years of extensive experience in the technical and business side of technology moving requirements to resolution.  Experience includes cross platform systems/network/storage architecture and security sales engineering.  Strategic relationship/partnership building with the ability to solve problems creatively focusing on specific client gaps.  Holds a BS in Computer Science from Georgia Tech.  Would you be interested in seeing his resume? ***
-
-
-
-January 2017 Software Engineer
-
-### I’ve noticed that ABOL Software has searched for Software engineers in the past and wanted to share an exceptional candidate I’m currently working with.  He’s an information systems and user interface developer with 7+ years of experience and proven successes in all phases of the software development lifecycle.  Consistently proven analytical skills and engineering capabilities in content management, data warehousing and workflow systems.  Exposure to these many environments and industries has left him with highly skilled experience in a wide variety of platforms, technologies, software development methodologies and design patterns.  Holds a MS in Computer Science.  Would you be interested in seeing his resume? ***
-
-
-
-
-
-
-
-
-
-January 2017 Infrastructure
-
-### I’ve noticed that ABOL has searched for Infrastructure Engineers in the past and wanted to share an exceptional candidate I’m currently working with.  He’s a seasoned Engineer with 10+ years of experience supporting network and system infrastructure for multi-user and remote environments.  Detail-oriented IT professional who excels at design, architecture, and establishing clear objectives while communicating with key stakeholders in assessing project needs.  Accustomed to managing multiple projects and priorities in fast-paced environments.  Holds a MS in Information Systems.  Would you be interested in seeing his resume? ***
-
-
-
-January 2017 Sales
-
-### I’ve noticed that ABOL Software has searched for Sales Executives in the past and wanted to share an exceptional candidate I’m currently working with.  He’s a highly skilled, dynamic and focused sales leader and relationship-builder with 8+ years of experience and proven success selling to customers ranging in size from middle-market to Fortune 500 corporations. An expert in strategic, complex sales processes, but equally proficient in account management. Professional networker who fosters long-term profitable relationships with a unique ability to make complex issues seem simple to each audience. Experienced in selling B2B, Enterprise Software, SaaS and intangibles. Excellent communicator who leads by example with a tremendous work ethic and positive attitude.  Holds a BS in Engineering and graduated at the top of his MBA class.  Would you be interested in seeing his resume?
 
 
 

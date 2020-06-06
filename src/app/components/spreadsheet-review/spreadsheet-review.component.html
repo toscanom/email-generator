@@ -45,13 +45,12 @@
       <td mat-cell style="padding: 10px" *matCellDef="let element"> {{element.body}} </td>
     </ng-container>
 
-
       <!-- Action Column -->
       <ng-container matColumnDef="action">
         <th mat-header-cell *matHeaderCellDef> Action </th>
         <td mat-cell *matCellDef="let element">
-          <button mat-button color="primary" (click)="openEmailItemDialog('Update', element)" onClick="alert('Coming Soon')">Edit</button>
-          <button mat-button color="primary" (click)="openEmailItemDialog('Delete', element)" onClick="alert('Coming Soon')">Delete</button>
+          <button mat-button color="primary" (click)="openEmailItemDialog(element)">Edit</button>
+          <button mat-button color="primary" (click)="openDeleteConfirmDialog(element)">Delete</button>
         </td>
       </ng-container>
 

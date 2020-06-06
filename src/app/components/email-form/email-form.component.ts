@@ -20,7 +20,9 @@ export class EmailFormComponent implements OnInit {
   action: string;
   local_data: any;
 
-  templateId;
+  title;
+  submitLabel;
+
   emailTemplate = {
     id: '',
     name: '',
@@ -33,7 +35,8 @@ export class EmailFormComponent implements OnInit {
     email: '',
     phone: '',
     subject: '',
-    body: ''
+    body: '',
+    originalBlurb: ''
   };
 
   locations;
@@ -62,49 +65,62 @@ export class EmailFormComponent implements OnInit {
       location: new FormControl('', [Validators.required]),
       phone: new FormControl('', [Validators.required, Validators.maxLength(15)]),
       subject: new FormControl('', [Validators.required]),
-      body: new FormControl('', [Validators.required])
+      body: new FormControl('', [Validators.required]),
+      id: new FormControl(''),
+      originalBlurb: new FormControl('')
     });
 
-    this.emailTemplate = this.local_data.emailTemplate;
+    if(this.action == 'Add') {
+      this.emailTemplate = this.local_data.emailTemplate;
 
-    this.emailItemForm.setValue({
-      name: '',
-      email: '',
-      location: '',
-      phone: '',
-      subject: '',
-      body: this.emailTemplate.blurb
-    });
+      this.emailItemForm.setValue({
+        name: '',
+        email: '',
+        location: '',
+        phone: '',
+        subject: '',
+        body: this.emailTemplate.blurb,
+        id: '',
+        originalBlurb: this.emailTemplate.blurb
+      });
+      this.title = this.action + ' a ' + this.emailTemplate.name + ' Email Item';
+      this.submitLabel = 'Create ';
+    } else {
+      this.emailItemForm.setValue(this.local_data.emailItem);
+      this.title = this.action + ' Email Item';
+      this.submitLabel = 'Update ';
+    }
   }
 
   public hasError = (controlName: string, errorName: string) =>{
     return this.emailItemForm.controls[controlName].hasError(errorName);
   }
 
-  createEmailItem(newEmailItem) {
-
-  }
-
   setLocationValues(location) {
-    console.info(this.emailItemForm);
-    console.info(location);
-
     this.emailItemForm.patchValue({
       phone: location.value.phone,
-      body: this.emailTemplate.blurb.replace('COLLEGE_PLACEHOLDER', location.value.college)
+      body: this.emailItemForm.value.originalBlurb.replace('[COLLEGE]', location.value.college)
     });
+  }
+
+  compareLocations(location1, location2): boolean {
+    return location1.name === location2.name;
   }
 
   doAction() {
     console.log(this.action)
     console.info(this.emailItemForm.value);
 
-    this.emailItemsService.addEmailItem(this.emailItemForm.value);
+    if(this.action == 'Add') {
+      this.emailItemsService.createEmailItem(this.emailItemForm.value);
+    } else {
+      this.emailItemsService.updateEmailItem(this.emailItemForm.value);
+    }
 
     this.dialogRef.close({event: this.action, data: this.emailItemForm.value});
   }
 
   closeDialog() {
-    this.dialogRef.close({event: 'Cancel'});
+    this.dialogRef.close({event: 'Cancel', data: {}});
   }
 }

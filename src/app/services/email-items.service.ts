@@ -1,4 +1,5 @@
 import { Injectable } from '@angular/core';
+import { v4 as uuidv4 } from 'uuid';
 
 @Injectable({
   providedIn: 'root'
@@ -10,12 +11,27 @@ export class EmailItemsService {
 
   constructor() { }
 
-  public addEmailItem(emailItem) {
+  public createEmailItem(emailItem) {
     let currentEmailItems = this.getEmailItems();
 
+    emailItem.id = uuidv4();
     currentEmailItems.push(emailItem);
 
     this.setEmailItems(currentEmailItems)
+  }
+
+  public getEmailItem(id) {
+    return(this.getEmailItems().find(emailItem => emailItem.id == id));
+  }
+
+  public updateEmailItem(updatedItem) {
+    let emailItems = this.getEmailItems();
+
+    const itemIndex = emailItems.findIndex((emailItem => emailItem.id == updatedItem.id));
+
+    emailItems[itemIndex] = updatedItem;
+
+    this.setEmailItems(emailItems);
   }
 
   public setEmailItems(emailItems) {
@@ -24,12 +40,7 @@ export class EmailItemsService {
   }
 
   public getEmailItems() {
-    let emailItems = JSON.parse(sessionStorage.getItem(this.key));
-    if(emailItems === null) {
-      emailItems = [];
-    }
-
-    console.log(emailItems.length + ' Number of items.');
+    let emailItems = JSON.parse(sessionStorage.getItem(this.key)) || [];
     return(emailItems);
   }
 }
