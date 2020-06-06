@@ -12,7 +12,6 @@ import { SpreadsheetGeneratorService } from "../../services/spreadsheet-generato
 })
 export class SpreadsheetReviewComponent implements OnInit {
 
-  fileUrl;
   downloadFilename = 'email-spreadsheet.xlsx';
   emailItems = <any>[];
 
@@ -22,7 +21,8 @@ export class SpreadsheetReviewComponent implements OnInit {
   constructor(private emailItemsService: EmailItemsService, private spreadsheetGeneratorService: SpreadsheetGeneratorService) { }
 
   ngOnInit() {
-    this.dataSource = new MatTableDataSource(this.emailItemsService.getEmailItems());
+    this.emailItems = this.emailItemsService.getEmailItems();
+    this.dataSource = new MatTableDataSource(this.emailItems);
   }
 
   generateSpreadsheetUrl() {
@@ -31,10 +31,11 @@ export class SpreadsheetReviewComponent implements OnInit {
 
   clearAllEmailItems() {
     this.emailItemsService.setEmailItems([]);
-    this.dataSource = new MatTableDataSource(this.emailItemsService.getEmailItems());
+    this.emailItems = this.emailItemsService.getEmailItems();
+    this.dataSource = new MatTableDataSource(this.emailItems);
   }
 
-  openEmailItemDialog() {
-
+  openEmailItemDialog(mode, item) {
+    console.log('Dialog Mode:' + mode);
   }
 }

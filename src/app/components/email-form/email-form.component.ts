@@ -74,6 +74,15 @@ export class EmailFormComponent implements OnInit {
     console.log(newEmailItem)
     this.emailItemsService.addEmailItem(newEmailItem);
 
+    this.emailItemForm.setValue({
+      name: '',
+      email: '',
+      location: '',
+      phone: '',
+      subject: '',
+      body: this.emailTemplate.blurb
+    });
+
     Object.keys(this.emailItemForm.controls).forEach(key => {
       this.emailItemForm.get(key).setErrors(null) ;
     });

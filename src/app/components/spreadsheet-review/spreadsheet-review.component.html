@@ -1,15 +1,19 @@
-<div>
+<div [hidden]="emailItems.length > 0" style="text-align: center;">
+  <h1>No Email Items Created Yet</h1>
+</div>
+
+<div [hidden]="emailItems.length == 0">
   <div fxLayout="row" fxLayoutAlign="space-between center">
     <div fxLayoutAlign="start center">
-    <button mat-raised-button color="primary" (click)="generateSpreadsheetUrl()" >Generate Spreadsheet File</button>
+    <button mat-raised-button color="primary" (click)="generateSpreadsheetUrl()"> Generate Spreadsheet File</button>
     </div>
     <div fxLayoutAlign="end center">
-    <button mat-raised-button color="warn" (click)="clearAllEmailItems()" > Clear All Items </button>
+    <button mat-raised-button color="warn" (click)="clearAllEmailItems()"> Clear All Items </button>
     </div>
   </div>
 
   <div class="table-container mat-elevation-z8">
-    <table mat-table [dataSource]="dataSource" >
+    <table mat-table [dataSource]="dataSource">
 
     <!-- Name Column -->
     <ng-container matColumnDef="name">
