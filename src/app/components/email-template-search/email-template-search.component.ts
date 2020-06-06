@@ -30,7 +30,12 @@ export class EmailTemplateSearchComponent implements OnInit {
     this.dataSource.filter = filterValue.trim().toLowerCase();
   }
 
-  openDialog(mode, item) {
+  openBlurbDialog(mode, item) {
+    console.log('Blurb Dialog Mode:' + mode);
+
+  }
+
+  openEmailItemDialog(mode, item) {
     console.log('Dialog Mode:' + mode);
   }
 }
