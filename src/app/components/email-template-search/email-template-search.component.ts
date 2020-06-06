@@ -11,7 +11,7 @@ import {MatTableDataSource} from '@angular/material/table';
 })
 export class EmailTemplateSearchComponent implements OnInit {
 
-  displayedColumns: string[] = ['id','name','blurb'];
+  displayedColumns: string[] = ['name', 'blurb', 'action'];
   dataSource;
   templates = <any>[];
 
@@ -28,5 +28,9 @@ export class EmailTemplateSearchComponent implements OnInit {
   applyFilter(event: Event) {
     const filterValue = (event.target as HTMLInputElement).value;
     this.dataSource.filter = filterValue.trim().toLowerCase();
+  }
+
+  openDialog(mode, item) {
+    console.log('Dialog Mode:' + mode);
   }
 }
