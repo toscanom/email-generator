@@ -1,7 +1,9 @@
- <section fxLayout="row wrap" fxLayoutAlign="center center">
+<h1 mat-dialog-title>Action :: Create a {{ emailTemplate.name }} Email Item</h1>
+
+<div mat-dialog-content>
+  <section fxLayout="row wrap" fxLayoutAlign="center center">
     <mat-card fxFlex="700px" fxFlex.xs="100%">
-      <mat-card-title>Create a {{ emailTemplate.name }} Email Item</mat-card-title>
-      <form [formGroup]="emailItemForm" autocomplete="off" novalidate (ngSubmit)="createEmailItem(emailItemForm.value)"
+      <form [formGroup]="emailItemForm" autocomplete="off" novalidate
             fxLayout="column wrap" fxLayoutAlign="center center" fxLayoutGap="10px">
 
         <mat-card-content>
@@ -42,9 +44,11 @@
 
         <mat-card-actions>
           <mat-card-actions align="center">
-            <button mat-raised-button color="primary">Create Email Item</button>
+            <button mat-raised-button (click)="doAction()" color="primary">Create Email Item</button>
+            <button mat-button (click)="closeDialog()" mat-flat-button color="warn">Cancel</button>
           </mat-card-actions>
         </mat-card-actions>
       </form>
     </mat-card>
   </section>
+</div>

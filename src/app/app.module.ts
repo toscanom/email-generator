@@ -7,9 +7,9 @@ import { AppComponent } from './app.component';
 import { ReactiveFormsModule } from '@angular/forms';
 import { FlexLayoutModule } from '@angular/flex-layout';
 
-import { MatCardModule, MatInputModule, MatPaginatorModule, MatProgressSpinnerModule,
+import { MatCardModule, MatInputModule, MatPaginatorModule, MatProgressSpinnerModule, MatDialogModule,
   MatSortModule, MatTableModule, MatButtonModule, MatToolbarModule, MatIconModule, MatSidenavModule,
-  MatListModule, MatSelectModule, MatOptionModule } from "@angular/material";
+  MatListModule, MatSelectModule, MatOptionModule, MatSnackBarModule } from "@angular/material";
 
 import { EmailTemplateSearchComponent } from './components/email-template-search/email-template-search.component';
 import { SpreadsheetReviewComponent } from './components/spreadsheet-review/spreadsheet-review.component';
@@ -37,11 +37,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     HttpClientModule,
     MatButtonModule,
     MatCardModule,
+    MatDialogModule,
     MatInputModule,
     MatTableModule,
     MatOptionModule,
     MatPaginatorModule,
     MatSelectModule,
+    MatSnackBarModule,
     MatSortModule,
     MatProgressSpinnerModule,
     MatToolbarModule,

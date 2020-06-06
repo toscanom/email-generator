@@ -12,13 +12,13 @@
     <!-- Name Column -->
     <ng-container matColumnDef="name">
       <th mat-header-cell *matHeaderCellDef> Name </th>
-      <td mat-cell class="link-cursor" *matCellDef="let element" [routerLink]="'/createEmail/' + element.id"> {{element.name}} </td>
+      <td mat-cell class="link-cursor" *matCellDef="let element" (click)="openEmailItemDialog(element)"> {{element.name}} </td>
     </ng-container>
 
     <!-- Blurb Column -->
     <ng-container matColumnDef="blurb">
       <th mat-header-cell *matHeaderCellDef> Blurb </th>
-      <td mat-cell class="link-cursor" style="padding: 10px" *matCellDef="let element" [routerLink]="'/createEmail/' + element.id"> {{element.blurb}} </td>
+      <td mat-cell class="link-cursor" style="padding: 10px" *matCellDef="let element" (click)="openEmailItemDialog(element)"> {{element.blurb}} </td>
     </ng-container>
 
     <!-- Action Column -->

@@ -1,11 +1,13 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Inject, Optional } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+
+import { FormControl, FormGroup, Validators } from '@angular/forms';
+import { MatDialogRef, MAT_DIALOG_DATA } from '@angular/material';
 
 import { EmailItemsService } from "../../services/email-items.service";
 import { EmailTemplatesService } from "../../services/email-templates.service";
 
-import { FormControl, FormGroup, Validators } from '@angular/forms';
-import {LocationService} from "../../services/location.service";
+import { LocationService } from "../../services/location.service";
 
 @Component({
   selector: 'app-email-form',
@@ -13,8 +15,12 @@ import {LocationService} from "../../services/location.service";
   styleUrls: ['./email-form.component.css']
 })
 export class EmailFormComponent implements OnInit {
-  public emailItemForm: FormGroup;
 
+  public emailItemForm: FormGroup;
+  action: string;
+  local_data: any;
+
+  templateId;
   emailTemplate = {
     id: '',
     name: '',
@@ -35,7 +41,14 @@ export class EmailFormComponent implements OnInit {
   constructor(private emailItemsService: EmailItemsService,
               private emailTemplatesService: EmailTemplatesService,
               private locationService: LocationService,
-              private route: ActivatedRoute) { }
+              private route: ActivatedRoute,
+              public dialogRef: MatDialogRef<EmailFormComponent>,
+              @Optional() @Inject(MAT_DIALOG_DATA) public data: any) {
+
+    console.log(data);
+    this.local_data = {...data};
+    this.action = this.local_data.action;
+  }
 
   ngOnInit() {
 
@@ -52,27 +65,7 @@ export class EmailFormComponent implements OnInit {
       body: new FormControl('', [Validators.required])
     });
 
-    this.emailTemplatesService.getEmailTemplates().subscribe((emailTemplates) => {
-      this.emailTemplatesService.convertRawText(emailTemplates);
-      this.emailTemplate = this.emailTemplatesService.getEmailTemplate(this.route.snapshot.paramMap.get('id'));
-      this.emailItemForm.setValue({
-        name: '',
-        email: '',
-        location: '',
-        phone: '',
-        subject: '',
-        body: this.emailTemplate.blurb
-      });
-    });
-  }
-
-  public hasError = (controlName: string, errorName: string) =>{
-    return this.emailItemForm.controls[controlName].hasError(errorName);
-  }
-
-  createEmailItem(newEmailItem) {
-    console.log(newEmailItem)
-    this.emailItemsService.addEmailItem(newEmailItem);
+    this.emailTemplate = this.local_data.emailTemplate;
 
     this.emailItemForm.setValue({
       name: '',
@@ -82,10 +75,14 @@ export class EmailFormComponent implements OnInit {
       subject: '',
       body: this.emailTemplate.blurb
     });
+  }
 
-    Object.keys(this.emailItemForm.controls).forEach(key => {
-      this.emailItemForm.get(key).setErrors(null) ;
-    });
+  public hasError = (controlName: string, errorName: string) =>{
+    return this.emailItemForm.controls[controlName].hasError(errorName);
+  }
+
+  createEmailItem(newEmailItem) {
+
   }
 
   setLocationValues(location) {
@@ -96,5 +93,18 @@ export class EmailFormComponent implements OnInit {
       phone: location.value.phone,
       body: this.emailTemplate.blurb.replace('COLLEGE_PLACEHOLDER', location.value.college)
     });
+  }
+
+  doAction() {
+    console.log(this.action)
+    console.info(this.emailItemForm.value);
+
+    this.emailItemsService.addEmailItem(this.emailItemForm.value);
+
+    this.dialogRef.close({event: this.action, data: this.emailItemForm.value});
+  }
+
+  closeDialog() {
+    this.dialogRef.close({event: 'Cancel'});
   }
 }
