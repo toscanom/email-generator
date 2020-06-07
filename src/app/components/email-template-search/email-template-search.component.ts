@@ -17,7 +17,6 @@ export class EmailTemplateSearchComponent implements OnInit {
 
   displayedColumns: string[] = ['name', 'blurb', 'action'];
   dataSource;
-  templates = <any>[];
 
   constructor(private emailTemplatesService: EmailTemplatesService,
               public dialog: MatDialog,
@@ -25,9 +24,7 @@ export class EmailTemplateSearchComponent implements OnInit {
 
   ngOnInit() {
     this.emailTemplatesService.getEmailTemplates().subscribe((emailTemplates) => {
-      this.templates = this.emailTemplatesService.convertRawText(emailTemplates);
-
-      this.dataSource = new MatTableDataSource(this.templates);
+      this.dataSource = new MatTableDataSource(emailTemplates);
     });
   }
 
