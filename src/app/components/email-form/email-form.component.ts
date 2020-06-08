@@ -136,7 +136,15 @@ export class EmailFormComponent implements OnInit {
     }
 
     if(this.emailItemForm.value.subject && this.emailItemForm.value.subject.trim() != '') {
-      newBody = newBody.replace('[SUBJECT]', this.emailItemForm.value.subject)
+      var pattern = /^([aeiou])/i;
+      let subjectWithArticle;
+
+      if(pattern.test(this.emailItemForm.value.subject)) {
+        subjectWithArticle ="an " + this.emailItemForm.value.subject
+      } else {
+        subjectWithArticle ="a " + this.emailItemForm.value.subject
+      }
+      newBody = newBody.replace('[SUBJECT]', subjectWithArticle)
     }
 
     this.emailItemForm.patchValue({
