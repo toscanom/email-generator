@@ -9,7 +9,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 
 import { MatCardModule, MatInputModule, MatPaginatorModule, MatProgressSpinnerModule, MatDialogModule,
   MatSortModule, MatTableModule, MatButtonModule, MatToolbarModule, MatIconModule, MatSidenavModule,
-  MatListModule, MatSelectModule, MatOptionModule, MatSnackBarModule } from "@angular/material";
+  MatListModule, MatSelectModule, MatOptionModule, MatSnackBarModule, MatDialogRef } from "@angular/material";
 
 import { EmailTemplateSearchComponent } from './components/email-template-search/email-template-search.component';
 import { SpreadsheetReviewComponent } from './components/spreadsheet-review/spreadsheet-review.component';
@@ -18,6 +18,7 @@ import { LoginComponent } from './components/login/login.component';
 import { BlurbComponent } from './components/blurb/blurb.component';
 import { HeaderComponent } from './components/header/header.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { ConfirmDialogComponent } from './components/confirm-dialog/confirm-dialog.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     EmailFormComponent,
     LoginComponent,
     BlurbComponent,
-    HeaderComponent
+    HeaderComponent,
+    ConfirmDialogComponent
   ],
   imports: [
     AppRoutingModule,
@@ -52,7 +54,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     MatListModule,
     ReactiveFormsModule
   ],
-  providers: [],
+  providers: [
+    {
+      provide: ConfirmDialogComponent,
+      useValue: {}
+    },
+  ],
+  entryComponents: [ConfirmDialogComponent],
   bootstrap: [AppComponent]
 })
 

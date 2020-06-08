@@ -9,7 +9,7 @@ export class EmailItemsService {
 
   private key = 'EmailItems';
 
-  constructor() { }
+  constructor() {}
 
   public createEmailItem(emailItem) {
     let currentEmailItems = this.getEmailItems();
@@ -31,6 +31,14 @@ export class EmailItemsService {
 
     emailItems[itemIndex] = updatedItem;
 
+    this.setEmailItems(emailItems);
+  }
+
+  deleteEmailItem(emailItemToDelete: any) {
+    let emailItems = this.getEmailItems();
+
+    const itemIndex = emailItems.findIndex((emailItem => emailItem.id == emailItemToDelete.id));
+    emailItems.splice(itemIndex,1);
     this.setEmailItems(emailItems);
   }
 
