@@ -34,6 +34,9 @@ export class EmailFormComponent implements OnInit {
     name: '',
     email: '',
     phone: '',
+    company: '',
+    years: '',
+    industry: '',
     subject: '',
     body: '',
     originalBlurb: ''
@@ -56,6 +59,12 @@ export class EmailFormComponent implements OnInit {
   ngOnInit() {
 
     this.locationService.getLocations().subscribe((locations) => {
+      locations.sort(function(a, b) {
+        let textA = a.name.toUpperCase();
+        let textB = b.name.toUpperCase();
+        return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
+      });
+
       this.locations = locations;
     });
 
@@ -64,6 +73,9 @@ export class EmailFormComponent implements OnInit {
       email: new FormControl('', [Validators.required]),
       location: new FormControl('', [Validators.required]),
       phone: new FormControl('', [Validators.required, Validators.maxLength(15)]),
+      company: new FormControl('', [Validators.required]),
+      years: new FormControl('', [Validators.required]),
+      industry: new FormControl('', [Validators.required]),
       subject: new FormControl('', [Validators.required]),
       body: new FormControl('', [Validators.required]),
       id: new FormControl(''),
@@ -78,6 +90,9 @@ export class EmailFormComponent implements OnInit {
         email: '',
         location: '',
         phone: '',
+        company: '',
+        years: '',
+        industry: '',
         subject: '',
         body: this.emailTemplate.blurb,
         id: '',
@@ -96,10 +111,37 @@ export class EmailFormComponent implements OnInit {
     return this.emailItemForm.controls[controlName].hasError(errorName);
   }
 
-  setLocationValues(location) {
+  buildBody() {
+    console.log('Location: ' + this.emailItemForm.value.location);
+    console.log('Years: ' + this.emailItemForm.value.years);
+    console.log('Company: ' + this.emailItemForm.value.company);
+    console.log('Industry: ' + this.emailItemForm.value.industry);
+    console.log('Subject: ' + this.emailItemForm.value.subject);
+    let newBody = this.emailItemForm.value.originalBlurb;
+
+    if(this.emailItemForm.value.location) {
+      newBody = newBody.replace('[COLLEGE]', this.emailItemForm.value.location.college)
+    }
+
+    if(this.emailItemForm.value.years && this.emailItemForm.value.years.trim() != '') {
+      newBody = newBody.replace('[YEARS]', this.emailItemForm.value.years)
+    }
+
+    if(this.emailItemForm.value.company && this.emailItemForm.value.company.trim() != '') {
+      newBody = newBody.replace('[COMPANY]', this.emailItemForm.value.company)
+    }
+
+    if(this.emailItemForm.value.industry && this.emailItemForm.value.industry.trim() != '') {
+      newBody = newBody.replace('[INDUSTRY]', this.emailItemForm.value.industry)
+    }
+
+    if(this.emailItemForm.value.subject && this.emailItemForm.value.subject.trim() != '') {
+      newBody = newBody.replace('[SUBJECT]', this.emailItemForm.value.subject)
+    }
+
     this.emailItemForm.patchValue({
-      phone: location.value.phone,
-      body: this.emailItemForm.value.originalBlurb.replace('[COLLEGE]', location.value.college)
+      phone: this.emailItemForm.value.location.phone,
+      body: newBody
     });
   }
 
