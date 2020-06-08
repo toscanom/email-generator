@@ -48,8 +48,9 @@ export class EmailTemplateSearchComponent implements OnInit {
 
     dialogRef.afterClosed().subscribe(result => {
       if(result && result.event == 'Add') {
-        this.snackBar.open('Email Item Added!', '', {
-          duration: 2000,
+        this.snackBar.open('Email Item Added!', 'Dismiss', {
+          duration: 3000,
+          verticalPosition: 'top'
         });
       }
     });

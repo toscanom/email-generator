@@ -58,8 +58,9 @@ export class SpreadsheetReviewComponent implements OnInit {
       if (result && result.event == 'Edit') {
         this.emailItems = this.emailItemsService.getEmailItems();
         this.dataSource = new MatTableDataSource(this.emailItems);
-        this.snackBar.open('Email Item Updated!', '', {
-          duration: 2000,
+        this.snackBar.open('Email Item Updated!', 'Dismiss', {
+          duration: 3000,
+          verticalPosition: 'top'
         });
       }
     });
