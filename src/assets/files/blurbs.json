@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "iOS Developer",
-    "blurb": "I noticed that [COMPANY] is searching for [SUBJECT] and wanted to share one of my candidates with you.  He has [YEARS] years of experience and his technical knowledge includes [INDUSTRY].  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.  Designed and executed mobile platform strategy for enterprise applications and played a critical role in determining technology platform that meets current and future demands.  Recognized for analyzing complex situations and creating new insights to improve business processes.  He's been at his current position for the past two years and is looking to make a change.  Graduated Cum Laude with a degree in Computer Science from the [COLLEGE].  Would you be interested in seeing his resume?"
+    "blurb": "I noticed that [COMPANY] is searching for [SUBJECT] and wanted to share one of my candidates with you.  He has [YEARS] years of experience and his technical knowledge includes [INDUSTRY].  Experienced in full life cycle development including analysis, development, maintenance, testing, and implementation.  Designed and executed mobile platform strategy for enterprise applications and played a critical role in determining technology platform that meets current and future demands.  Recognized for analyzing complex situations and creating new insights to improve business processes.  He's been at his current position for the past two years and is looking to make a change.  Graduated Cum Laude with a degree in Computer Science from [COLLEGE].  Would you be interested in seeing his resume?"
   },
   {
     "id": 3,
@@ -142,7 +142,7 @@
   {
     "id": 28,
     "name": "Logistics Analyst",
-    "blurb": "I noticed that [COMPANY] is searching for [SUBJECT] and wanted to share one of my candidates with you.  He’s an accomplished Logistics professional with extensive experience in quality assurance, materials planning and control, global supply chain, hazardous materials, logistics, supply support, and inventory tracking.  Proficient in logistic management systems, Access database management, contracting processes, and pre and post award procurement documentation.  Consistent history of reducing expenses and streamlining workflow while enhancing quality.  Holds a BS in Supply Chain Management from the [COLLEGE].  Would you be interested in seeing his resume?"
+    "blurb": "I noticed that [COMPANY] is searching for [SUBJECT] and wanted to share one of my candidates with you.  He’s an accomplished Logistics professional with extensive experience in quality assurance, materials planning and control, global supply chain, hazardous materials, logistics, supply support, and inventory tracking.  Proficient in logistic management systems, Access database management, contracting processes, and pre and post award procurement documentation.  Consistent history of reducing expenses and streamlining workflow while enhancing quality.  Holds a BS in Supply Chain Management from [COLLEGE].  Would you be interested in seeing his resume?"
   },
   {
     "id": 29,
