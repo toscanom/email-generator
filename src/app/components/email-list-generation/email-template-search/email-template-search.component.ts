@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 
-import { EmailTemplatesService } from "../../services/email-templates.service";
+import { EmailTemplatesService } from "../../../services/email-templates.service";
 
-import { EmailFormComponent } from "../email-form/email-form.component";
+import {EmailFormComponent} from "../email-form/email-form.component";
 
 import { MatTableDataSource } from '@angular/material/table';
 import { MatDialog } from '@angular/material';

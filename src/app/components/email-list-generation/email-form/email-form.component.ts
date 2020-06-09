@@ -1,13 +1,13 @@
-import { Component, OnInit, Inject, Optional } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import {Component, OnInit, Inject, Optional} from '@angular/core';
+import {ActivatedRoute} from '@angular/router';
 
-import { FormControl, FormGroup, Validators } from '@angular/forms';
-import { MatDialogRef, MAT_DIALOG_DATA } from '@angular/material';
+import {FormControl, FormGroup, Validators} from '@angular/forms';
+import {MatDialogRef, MAT_DIALOG_DATA} from '@angular/material';
 
-import { EmailItemsService } from "../../services/email-items.service";
-import { EmailTemplatesService } from "../../services/email-templates.service";
+import {EmailItemsService} from "../../../services/email-items.service";
+import {EmailTemplatesService} from "../../../services/email-templates.service";
 
-import { LocationService } from "../../services/location.service";
+import {LocationService} from "../../../services/location.service";
 
 @Component({
   selector: 'app-email-form',
@@ -59,7 +59,7 @@ export class EmailFormComponent implements OnInit {
   ngOnInit() {
 
     this.locationService.getLocations().subscribe((locations) => {
-      locations.sort(function(a, b) {
+      locations.sort(function (a, b) {
         let textA = a.name.toUpperCase();
         let textB = b.name.toUpperCase();
         return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
@@ -82,7 +82,7 @@ export class EmailFormComponent implements OnInit {
       originalBlurb: new FormControl('')
     });
 
-    if(this.action == 'Add') {
+    if (this.action == 'Add') {
       this.emailTemplate = this.local_data.emailTemplate;
 
       this.emailItemForm.setValue({
@@ -107,7 +107,7 @@ export class EmailFormComponent implements OnInit {
     }
   }
 
-  public hasError = (controlName: string, errorName: string) =>{
+  public hasError = (controlName: string, errorName: string) => {
     return this.emailItemForm.controls[controlName].hasError(errorName);
   }
 
@@ -119,30 +119,30 @@ export class EmailFormComponent implements OnInit {
     console.log('Subject: ' + this.emailItemForm.value.subject);
     let newBody = this.emailItemForm.value.originalBlurb;
 
-    if(this.emailItemForm.value.location) {
+    if (this.emailItemForm.value.location) {
       newBody = newBody.replace('[COLLEGE]', this.emailItemForm.value.location.college)
     }
 
-    if(this.emailItemForm.value.years && this.emailItemForm.value.years.trim() != '') {
+    if (this.emailItemForm.value.years && this.emailItemForm.value.years.trim() != '') {
       newBody = newBody.replace('[YEARS]', this.emailItemForm.value.years)
     }
 
-    if(this.emailItemForm.value.company && this.emailItemForm.value.company.trim() != '') {
+    if (this.emailItemForm.value.company && this.emailItemForm.value.company.trim() != '') {
       newBody = newBody.replace('[COMPANY]', this.emailItemForm.value.company)
     }
 
-    if(this.emailItemForm.value.industry && this.emailItemForm.value.industry.trim() != '') {
+    if (this.emailItemForm.value.industry && this.emailItemForm.value.industry.trim() != '') {
       newBody = newBody.replace('[INDUSTRY]', this.emailItemForm.value.industry)
     }
 
-    if(this.emailItemForm.value.subject && this.emailItemForm.value.subject.trim() != '') {
+    if (this.emailItemForm.value.subject && this.emailItemForm.value.subject.trim() != '') {
       var pattern = /^([aeiou])/i;
       let subjectWithArticle;
 
-      if(pattern.test(this.emailItemForm.value.subject)) {
-        subjectWithArticle ="an " + this.emailItemForm.value.subject
+      if (pattern.test(this.emailItemForm.value.subject)) {
+        subjectWithArticle = "an " + this.emailItemForm.value.subject
       } else {
-        subjectWithArticle ="a " + this.emailItemForm.value.subject
+        subjectWithArticle = "a " + this.emailItemForm.value.subject
       }
       newBody = newBody.replace('[SUBJECT]', subjectWithArticle)
     }
@@ -161,7 +161,7 @@ export class EmailFormComponent implements OnInit {
     console.log(this.action)
     console.info(this.emailItemForm.value);
 
-    if(this.action == 'Add') {
+    if (this.action == 'Add') {
       this.emailItemsService.createEmailItem(this.emailItemForm.value);
     } else {
       this.emailItemsService.updateEmailItem(this.emailItemForm.value);

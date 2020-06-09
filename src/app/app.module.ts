@@ -11,14 +11,15 @@ import { MatCardModule, MatInputModule, MatPaginatorModule, MatProgressSpinnerMo
   MatSortModule, MatTableModule, MatButtonModule, MatToolbarModule, MatIconModule, MatSidenavModule,
   MatListModule, MatSelectModule, MatOptionModule, MatSnackBarModule, MatDialogRef } from "@angular/material";
 
-import { EmailTemplateSearchComponent } from './components/email-template-search/email-template-search.component';
-import { SpreadsheetReviewComponent } from './components/spreadsheet-review/spreadsheet-review.component';
-import { EmailFormComponent } from './components/email-form/email-form.component';
+import { EmailTemplateSearchComponent } from './components/email-list-generation/email-template-search/email-template-search.component';
+import { SpreadsheetReviewComponent } from './components/email-list-generation/spreadsheet-review/spreadsheet-review.component';
+import { EmailFormComponent } from './components/email-list-generation/email-form/email-form.component';
 import { LoginComponent } from './components/login/login.component';
-import { BlurbComponent } from './components/blurb/blurb.component';
+import { BlurbComponent } from './components/email-list-generation/blurb/blurb.component';
 import { HeaderComponent } from './components/header/header.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ConfirmDialogComponent } from './components/confirm-dialog/confirm-dialog.component';
+import { JobListingSearchComponent } from './components/job-listing-management/job-listing-search/job-listing-search.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { ConfirmDialogComponent } from './components/confirm-dialog/confirm-dial
     LoginComponent,
     BlurbComponent,
     HeaderComponent,
-    ConfirmDialogComponent
+    ConfirmDialogComponent,
+    JobListingSearchComponent
   ],
   imports: [
     AppRoutingModule,
@@ -60,7 +62,7 @@ import { ConfirmDialogComponent } from './components/confirm-dialog/confirm-dial
       useValue: {}
     },
   ],
-  entryComponents: [ConfirmDialogComponent],
+  entryComponents: [ConfirmDialogComponent,EmailFormComponent],
   bootstrap: [AppComponent]
 })
 
