@@ -1,9 +1,9 @@
-import { Injectable } from '@angular/core';
+import {Injectable} from '@angular/core';
 
-import { Workbook } from 'exceljs';
+import {Workbook} from 'exceljs';
 import * as fs from 'node_modules/file-saver';
 
-import { EmailItemsService } from "./email-items.service";
+import {EmailItemsService} from "./email-items.service";
 
 @Injectable({
   providedIn: 'root'
@@ -13,8 +13,8 @@ export class SpreadsheetGeneratorService {
   titles = ["Name", "Email", "Phone Number", "Subject", "Blurb"];
 
 
-
-  constructor(private emailItemsService: EmailItemsService) { }
+  constructor(private emailItemsService: EmailItemsService) {
+  }
 
   public generateSpreadsheetFile(fileName): any {
     const data = [];
@@ -33,7 +33,7 @@ export class SpreadsheetGeneratorService {
     });
 
     workbook.xlsx.writeBuffer().then((data) => {
-      let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
+      let blob = new Blob([data], {type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'});
       fs.saveAs(blob, fileName);
     });
   }

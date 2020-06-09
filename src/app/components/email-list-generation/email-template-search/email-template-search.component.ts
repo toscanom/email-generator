@@ -1,12 +1,12 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 
-import { EmailTemplatesService } from "../../../services/email-templates.service";
+import {EmailTemplatesService} from "../../../services/email-templates.service";
 
 import {EmailFormComponent} from "../email-form/email-form.component";
 
-import { MatTableDataSource } from '@angular/material/table';
-import { MatDialog } from '@angular/material';
-import { MatSnackBar } from '@angular/material/snack-bar';
+import {MatTableDataSource} from '@angular/material/table';
+import {MatDialog} from '@angular/material';
+import {MatSnackBar} from '@angular/material/snack-bar';
 
 @Component({
   selector: 'app-email-template-finder',
@@ -20,7 +20,8 @@ export class EmailTemplateSearchComponent implements OnInit {
 
   constructor(private emailTemplatesService: EmailTemplatesService,
               public dialog: MatDialog,
-              private snackBar: MatSnackBar) { }
+              private snackBar: MatSnackBar) {
+  }
 
   ngOnInit() {
     this.emailTemplatesService.getEmailTemplates().subscribe((emailTemplates) => {
@@ -47,7 +48,7 @@ export class EmailTemplateSearchComponent implements OnInit {
     });
 
     dialogRef.afterClosed().subscribe(result => {
-      if(result && result.event == 'Add') {
+      if (result && result.event == 'Add') {
         this.snackBar.open('Email Item Added!', 'Dismiss', {
           duration: 3000,
           verticalPosition: 'top'

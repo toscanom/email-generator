@@ -3,7 +3,9 @@
     <mat-label>Filter</mat-label>
     <input matInput (keyup)="applyFilter($event)" placeholder="Search">
   </mat-form-field>
-  <button mat-button (click)="openBlurbDialog('Add',{})" mat-flat-button color="primary" onClick="alert('Coming Soon')">Add Blurb</button>
+  <button mat-button (click)="openBlurbDialog('Add',{})" mat-flat-button color="primary" onClick="alert('Coming Soon')">
+    Add Blurb
+  </button>
 </div>
 
 <div class="table-container mat-elevation-z8">
@@ -11,22 +13,28 @@
 
     <!-- Name Column -->
     <ng-container matColumnDef="name">
-      <th mat-header-cell *matHeaderCellDef> Name </th>
-      <td mat-cell class="link-cursor" *matCellDef="let element" (click)="openEmailItemDialog(element)"> {{element.name}} </td>
+      <th mat-header-cell *matHeaderCellDef> Name</th>
+      <td mat-cell class="link-cursor" *matCellDef="let element"
+          (click)="openEmailItemDialog(element)"> {{element.name}} </td>
     </ng-container>
 
     <!-- Blurb Column -->
     <ng-container matColumnDef="blurb">
-      <th mat-header-cell *matHeaderCellDef> Blurb </th>
-      <td mat-cell class="link-cursor" style="padding: 10px" *matCellDef="let element" (click)="openEmailItemDialog(element)"> {{element.blurb}} </td>
+      <th mat-header-cell *matHeaderCellDef> Blurb</th>
+      <td mat-cell class="link-cursor" style="padding: 10px" *matCellDef="let element"
+          (click)="openEmailItemDialog(element)"> {{element.blurb}} </td>
     </ng-container>
 
     <!-- Action Column -->
     <ng-container matColumnDef="action">
-      <th mat-header-cell *matHeaderCellDef> Action </th>
+      <th mat-header-cell *matHeaderCellDef> Action</th>
       <td mat-cell *matCellDef="let element">
-        <button mat-button color="primary" (click)="openBlurbDialog('Update', element)" onClick="alert('Coming Soon')">Edit</button>
-        <button mat-button color="primary" (click)="openBlurbDialog('Delete', element)" onClick="alert('Coming Soon')">Delete</button>
+        <button mat-button color="primary" (click)="openBlurbDialog('Update', element)" onClick="alert('Coming Soon')">
+          Edit
+        </button>
+        <button mat-button color="primary" (click)="openBlurbDialog('Delete', element)" onClick="alert('Coming Soon')">
+          Delete
+        </button>
       </td>
     </ng-container>
 

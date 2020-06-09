@@ -18,7 +18,8 @@
           <br>
           <mat-form-field>
             <mat-label>Location</mat-label>
-            <mat-select formControlName="location" id="location" (selectionChange)="buildBody()" [compareWith]="compareLocations">
+            <mat-select formControlName="location" id="location" (selectionChange)="buildBody()"
+                        [compareWith]="compareLocations">
               <mat-option *ngFor="let location of locations" [value]="location">
                 {{location.name}}
               </mat-option>
@@ -48,7 +49,8 @@
           </mat-form-field>
           <br>
           <mat-form-field style="width: 600px">
-            <textarea matInput type="text" placeholder="Email Body" formControlName="body" [rows]="10" [contentEditable]="false"></textarea>
+            <textarea matInput type="text" placeholder="Email Body" formControlName="body" [rows]="10"
+                      [contentEditable]="false"></textarea>
             <mat-error *ngIf="hasError('body', 'required')">Email Body is required</mat-error>
           </mat-form-field>
         </mat-card-content>

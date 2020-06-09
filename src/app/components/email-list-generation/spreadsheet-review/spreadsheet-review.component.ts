@@ -1,13 +1,13 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 
-import { MatTableDataSource } from '@angular/material/table';
-import { MatDialog } from '@angular/material';
-import { MatSnackBar } from '@angular/material/snack-bar';
+import {MatTableDataSource} from '@angular/material/table';
+import {MatDialog} from '@angular/material';
+import {MatSnackBar} from '@angular/material/snack-bar';
 
-import { ConfirmDialogComponent, ConfirmDialogModel } from "../../confirm-dialog/confirm-dialog.component";
-import { EmailFormComponent } from "../email-form/email-form.component";
-import { EmailItemsService } from "../../../services/email-items.service";
-import { SpreadsheetGeneratorService } from "../../../services/spreadsheet-generator.service";
+import {ConfirmDialogComponent, ConfirmDialogModel} from "../../confirm-dialog/confirm-dialog.component";
+import {EmailFormComponent} from "../email-form/email-form.component";
+import {EmailItemsService} from "../../../services/email-items.service";
+import {SpreadsheetGeneratorService} from "../../../services/spreadsheet-generator.service";
 
 @Component({
   selector: 'app-spreadsheet-contents',
@@ -19,14 +19,15 @@ export class SpreadsheetReviewComponent implements OnInit {
   downloadFilename = 'email-spreadsheet.xlsx';
   emailItems = <any>[];
 
-  displayedColumns: string[] = ['name','email','phone', 'subject', 'body', 'action'];
+  displayedColumns: string[] = ['name', 'email', 'phone', 'subject', 'body', 'action'];
   dataSource;
 
   constructor(private confirmDialogComponent: ConfirmDialogComponent,
               private emailItemsService: EmailItemsService,
               private spreadsheetGeneratorService: SpreadsheetGeneratorService,
               public dialog: MatDialog,
-              private snackBar: MatSnackBar) { }
+              private snackBar: MatSnackBar) {
+  }
 
   ngOnInit() {
     this.emailItems = this.emailItemsService.getEmailItems();
@@ -79,11 +80,12 @@ export class SpreadsheetReviewComponent implements OnInit {
     });
 
     dialogRef.afterClosed().subscribe(dialogResult => {
-      if(dialogResult) {
+      if (dialogResult) {
         this.emailItemsService.deleteEmailItem(emailItem);
         this.emailItems = this.emailItemsService.getEmailItems();
         this.dataSource = new MatTableDataSource(this.emailItems);
-      };
+      }
+      ;
     });
   }
 }

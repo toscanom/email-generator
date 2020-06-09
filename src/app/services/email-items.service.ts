@@ -1,5 +1,5 @@
-import { Injectable } from '@angular/core';
-import { v4 as uuidv4 } from 'uuid';
+import {Injectable} from '@angular/core';
+import {v4 as uuidv4} from 'uuid';
 
 @Injectable({
   providedIn: 'root'
@@ -9,7 +9,8 @@ export class EmailItemsService {
 
   private key = 'EmailItems';
 
-  constructor() {}
+  constructor() {
+  }
 
   public createEmailItem(emailItem) {
     let currentEmailItems = this.getEmailItems();
@@ -21,7 +22,7 @@ export class EmailItemsService {
   }
 
   public getEmailItem(id) {
-    return(this.getEmailItems().find(emailItem => emailItem.id == id));
+    return (this.getEmailItems().find(emailItem => emailItem.id == id));
   }
 
   public updateEmailItem(updatedItem) {
@@ -38,7 +39,7 @@ export class EmailItemsService {
     let emailItems = this.getEmailItems();
 
     const itemIndex = emailItems.findIndex((emailItem => emailItem.id == emailItemToDelete.id));
-    emailItems.splice(itemIndex,1);
+    emailItems.splice(itemIndex, 1);
     this.setEmailItems(emailItems);
   }
 
@@ -49,6 +50,6 @@ export class EmailItemsService {
 
   public getEmailItems() {
     let emailItems = JSON.parse(sessionStorage.getItem(this.key)) || [];
-    return(emailItems);
+    return (emailItems);
   }
 }

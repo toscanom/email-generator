@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+import {Injectable} from '@angular/core';
 import {HttpClient} from "@angular/common/http";
 import {Observable} from "rxjs";
 
@@ -7,9 +7,10 @@ import {Observable} from "rxjs";
 })
 export class LocationService {
 
-  constructor(private httpClient: HttpClient) { }
+  constructor(private httpClient: HttpClient) {
+  }
 
-  getLocations() : Observable<any> {
+  getLocations(): Observable<any> {
     return this.httpClient.get('assets/files/locations.json');
   }
 }
