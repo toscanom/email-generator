@@ -1,9 +1,9 @@
-import {Injectable} from '@angular/core';
+import { Injectable } from '@angular/core';
 
-import {Workbook} from 'exceljs';
+import { Workbook } from 'exceljs';
 import * as fs from 'node_modules/file-saver';
 
-import {EmailItemsService} from "./email-items.service";
+import { EmailItemsService } from "./email-items.service";
 
 @Injectable({
   providedIn: 'root'

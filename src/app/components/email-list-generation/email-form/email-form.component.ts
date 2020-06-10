@@ -1,13 +1,13 @@
-import {Component, OnInit, Inject, Optional} from '@angular/core';
-import {ActivatedRoute} from '@angular/router';
+import { Component, OnInit, Inject, Optional } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
 
-import {FormControl, FormGroup, Validators} from '@angular/forms';
-import {MatDialogRef, MAT_DIALOG_DATA} from '@angular/material';
+import { FormControl, FormGroup, Validators } from '@angular/forms';
+import { MatDialogRef, MAT_DIALOG_DATA } from '@angular/material';
 
-import {EmailItemsService} from "../../../services/email-items.service";
-import {EmailTemplatesService} from "../../../services/email-templates.service";
+import { EmailItemsService } from "../../../services/email-items.service";
+import { EmailTemplatesService } from "../../../services/email-templates.service";
 
-import {LocationService} from "../../../services/location.service";
+import { LocationService } from "../../../services/location.service";
 
 @Component({
   selector: 'app-email-form',

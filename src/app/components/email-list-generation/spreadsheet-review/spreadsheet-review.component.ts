@@ -1,13 +1,13 @@
-import {Component, OnInit} from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
-import {MatTableDataSource} from '@angular/material/table';
-import {MatDialog} from '@angular/material';
-import {MatSnackBar} from '@angular/material/snack-bar';
+import { MatTableDataSource } from '@angular/material/table';
+import { MatDialog } from '@angular/material';
+import { MatSnackBar } from '@angular/material/snack-bar';
 
-import {ConfirmDialogComponent, ConfirmDialogModel} from "../../confirm-dialog/confirm-dialog.component";
-import {EmailFormComponent} from "../email-form/email-form.component";
-import {EmailItemsService} from "../../../services/email-items.service";
-import {SpreadsheetGeneratorService} from "../../../services/spreadsheet-generator.service";
+import { ConfirmDialogComponent, ConfirmDialogModel } from "../../confirm-dialog/confirm-dialog.component";
+import { EmailFormComponent } from "../email-form/email-form.component";
+import { EmailItemsService } from "../../../services/email-items.service";
+import { SpreadsheetGeneratorService } from "../../../services/spreadsheet-generator.service";
 
 @Component({
   selector: 'app-spreadsheet-contents',
