@@ -37,7 +37,7 @@
   {
     "id": 7,
     "name": "Director of Information Security",
-    "blurb": "I noticed that [COMPANY] is searching for a [SUBJECT]and wanted to share one of my candidates with you.  He’s a strong Information Security leader with extensive experience in all areas of Information Systems and Operations including Financial, Operational and Systems Auditing, Risk Management, Information Security and Disaster Recovery/Contingency Planning.  Keen understanding of the value created by partnering with the business to balance needs of the corporation with the growing number of controls required to mitigate risk due to the ever increasing complex technology and regulatory requirements.  Recognized for analyzing complex situations and creating new insights to improve business processes. Holds a CISSP and MBA from [COLLEGE].  Would you be interested in seeing his resume?"
+    "blurb": "I noticed that [COMPANY] is searching for [SUBJECT] and wanted to share one of my candidates with you.  He’s a strong Information Security leader with extensive experience in all areas of Information Systems and Operations including Financial, Operational and Systems Auditing, Risk Management, Information Security and Disaster Recovery/Contingency Planning.  Keen understanding of the value created by partnering with the business to balance needs of the corporation with the growing number of controls required to mitigate risk due to the ever increasing complex technology and regulatory requirements.  Recognized for analyzing complex situations and creating new insights to improve business processes. Holds a CISSP and MBA from [COLLEGE].  Would you be interested in seeing his resume?"
   },
   {
     "id": 8,
@@ -112,7 +112,7 @@
   {
     "id": 22,
     "name": "Business Operations Analyst",
-    "blurb": "I noticed that [COMPANY] is searching for a [SUBJECT] and wanted to share one of my candidates with you.  He’s a resourceful and deadline-driven Analyst with [YEARS] years of experience in operations, technology, and strategic analysis and planning in the [INDUSTRY] industry. Unsurpassed ability to analyze complex data pools to uncover trends and develop mission-critical improvements by leveraging increased insight through data. Strong ability to communicate technically and non-technically and maintain superior capability to operate cross-functionally and exceed business goals. Holds a BS in Information Systems from [COLLEGE].  Would you be interested in seeing his resume?"
+    "blurb": "I noticed that [COMPANY] is searching for [SUBJECT] and wanted to share one of my candidates with you.  He’s a resourceful and deadline-driven Analyst with [YEARS] years of experience in operations, technology, and strategic analysis and planning in the [INDUSTRY] industry. Unsurpassed ability to analyze complex data pools to uncover trends and develop mission-critical improvements by leveraging increased insight through data. Strong ability to communicate technically and non-technically and maintain superior capability to operate cross-functionally and exceed business goals. Holds a BS in Information Systems from [COLLEGE].  Would you be interested in seeing his resume?"
   },
   {
     "id": 23,
@@ -288,5 +288,10 @@
     "id": 57,
     "name": "Director of Acquisitions (Commercial Real Estate)",
     "blurb": "I noticed that [COMPANY] is searching for [SUBJECT] and wanted to share one of my candidates with you.  He’s a versatile team player with a comprehensive investor-facing background in deal sourcing, financial analysis, underwriting, and asset management of commercial real estate for private and institutional equity investors. Strong experience in market trending, due diligence, financing, sourcing and acquisitions, redevelopment, asset management, strategic leasing and operations, work-outs, dispositions, and investor relations.  He’s a well-rounded, versatile, highly creative professional with an excellent work ethic, attention to detail and excellent communication skills.  Holds a MBA from [COLLEGE].  Would you be interested in seeing his resume?"
+  },
+  {
+    "id": 58,
+    "name": "Marketing Manager",
+    "blurb": "I noticed that [Company] is searching for [Subject] and wanted to share one of my candidates with you.  He’s a results-proven marketing manager with extensive [Industry] industry experience.  Record of success in the concept-to-launch leadership of SEM campaigns, events, and programs propelling record-setting revenue gains (multimillion-dollar growth) and customer-base expansion. Excel in developing compelling collateral, cohesive brands, lasting partnerships, strong grassroots/media/donor support, and high-performance teams.  Graduated with honors from [College].  Would you be interested in seeing his resume?"
   }
 ]
