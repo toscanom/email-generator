@@ -3,11 +3,13 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const helmet = require('helmet');
+const db = require("./database");
 
-const jobsRoute = require('./routes/jobs.js');
+const jobsRoute = require('./routes/job-listing.route.js');
 
 const app = express();
 
+db.sequelize.sync();
 
 app.use(helmet());
 app.use(bodyParser.json());

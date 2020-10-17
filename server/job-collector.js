@@ -1,3 +1,10 @@
+const db = require("./database");
+const Jobs = db.jobs;
+
+db.sequelize.sync({ force: true }).then(() => {
+  console.log("Drop and re-sync db.");
+});
+
 const {
   LinkedinScraper,
   ERelevanceFilterOptions,
@@ -38,6 +45,17 @@ console.log('Configuring Scraper');
       `employmentType='${data.employmentType}'`,
       `industries='${data.industries}'`,
     );
+
+    // Grab Linked In id from url
+    let tempArray = data.link.split('/');
+    data.linkedInId = tempArray[tempArray.length-1].split('?')[0];
+
+    // Save Tutorial in the database
+    Jobs.create(data).then(data => {
+      console.log('Record Created Successfully')
+    }).catch(err => {
+      console.log(err.message || "Some error occurred while creating the Tutorial.");
+    });
   });
 
   scraper.on(events.scraper.error, (err) => {
@@ -89,7 +107,7 @@ console.log('Configuring Scraper');
         //locations: ["Germany"], // This will be merged with the global options => ["New York", "Germany"]
       }
     ], { // Global options for this run, will be merged individually with each query options (if any)
-      locations: ["Charlotte", "Atlanta"],
+      locations: ["Charlotte"],
       optimize: true,
       limit: 33,
     }),
